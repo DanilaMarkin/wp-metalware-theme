@@ -1,0 +1,5 @@
+[05-Apr-2025 13:28:29 UTC] PHP Warning:  Attempt to read property "post_author" on null in D:\Program\OSPanel\domains\WideAndScale\metalware\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php on line 420
+[05-Apr-2025 13:28:29 UTC] PHP Warning:  Attempt to read property "post_date" on null in D:\Program\OSPanel\domains\WideAndScale\metalware\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php on line 423
+[05-Apr-2025 13:28:29 UTC] PHP Warning:  Attempt to read property "post_date_gmt" on null in D:\Program\OSPanel\domains\WideAndScale\metalware\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php on line 424
+[05-Apr-2025 13:28:29 UTC] PHP Warning:  Attempt to read property "post_modified" on null in D:\Program\OSPanel\domains\WideAndScale\metalware\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php on line 425
+[05-Apr-2025 13:28:29 UTC] PHP Warning:  Attempt to read property "post_modified_gmt" on null in D:\Program\OSPanel\domains\WideAndScale\metalware\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php on line 426

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//krepion.ru/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://krepion.ru/post-sitemap.xml</loc>
+		<lastmod>2025-04-04T11:52:13+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://krepion.ru/page-sitemap.xml</loc>
+		<lastmod>2025-04-07T14:18:26+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://krepion.ru/product-sitemap.xml</loc>
+		<lastmod>2025-04-07T10:44:16+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://krepion.ru/category-sitemap.xml</loc>
+		<lastmod>2025-04-04T11:52:13+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

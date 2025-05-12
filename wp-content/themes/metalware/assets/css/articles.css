@@ -1,0 +1,15 @@
+.articles__title {
+    padding: 0 0 45px 0;
+}
+
+.articles__content {
+    display: flex;
+    flex-direction: column;
+    gap: clamp(10px, 2vw, 20px);
+}
+
+.articles__content img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}

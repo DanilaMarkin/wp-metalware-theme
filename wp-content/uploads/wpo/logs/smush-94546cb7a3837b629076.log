@@ -1,0 +1,1623 @@
+[2025-03-10 15:24:10 : INFO] - Re_Smush_It_Task with attachment ID : 96, autocreated on : March 10, 2025 03:24:10 
+[2025-03-10 15:29:16 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-03-10 15:29:16 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-03-10 15:29:16 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-03-10 15:29:16 : INFO] - Processing task with ID : 78, and type 'smush' 
+[2025-03-10 15:29:16 : INFO] - Re_Smush_It_Task with attachment ID : 96, autocreated on : March 10, 2025 03:24:10 
+[2025-03-10 15:29:16 : INFO] - File: bolt-1.png, Compression quality: 92 
+[2025-03-10 15:29:17 : INFO] - Backing up the original image - 2025/03/bolt-1-updraft-pre-smush-original.png 
+[2025-03-10 15:29:17 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/bolt-1.png.The file was compressed from 15.75 KB to 5.98 KB, saving 62.06 percent, using WP-Optimize 
+[2025-03-10 15:29:17 : INFO] - Completed processing task with ID : 78, and type 'smush' 
+[2025-03-10 15:29:17 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-03-10 15:29:17 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-03-10 15:29:17 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-03-10 15:29:17 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-03-11 11:12:39 : INFO] - Re_Smush_It_Task with attachment ID : 104, autocreated on : March 11, 2025 11:12:39 
+[2025-03-11 11:17:50 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-03-11 11:17:50 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-03-11 11:17:50 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-03-11 11:17:50 : INFO] - Processing task with ID : 93, and type 'smush' 
+[2025-03-11 11:17:50 : INFO] - Re_Smush_It_Task with attachment ID : 104, autocreated on : March 11, 2025 11:12:39 
+[2025-03-11 11:17:50 : INFO] - File: image.png, Compression quality: 92 
+[2025-03-11 11:17:51 : INFO] - Backing up the original image - 2025/03/image-updraft-pre-smush-original.png 
+[2025-03-11 11:17:53 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/image.png.The file was compressed from 160.97 KB to 65.42 KB, saving 59.36 percent, using WP-Optimize 
+[2025-03-11 11:17:53 : INFO] - Completed processing task with ID : 93, and type 'smush' 
+[2025-03-11 11:17:53 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-03-11 11:17:53 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-03-11 11:17:53 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-03-11 11:17:53 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-03-11 14:46:31 : INFO] - Re_Smush_It_Task with attachment ID : 110, autocreated on : March 11, 2025 02:46:31 
+[2025-03-11 14:51:32 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-03-11 14:51:32 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-03-11 14:51:32 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-03-11 14:51:32 : INFO] - Processing task with ID : 135, and type 'smush' 
+[2025-03-11 14:51:32 : INFO] - Re_Smush_It_Task with attachment ID : 110, autocreated on : March 11, 2025 02:46:31 
+[2025-03-11 14:51:32 : INFO] - File: image-1.png, Compression quality: 92 
+[2025-03-11 14:51:33 : INFO] - Backing up the original image - 2025/03/image-1-updraft-pre-smush-original.png 
+[2025-03-11 14:51:35 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/image-1.png.The file was compressed from 160.97 KB to 65.42 KB, saving 59.36 percent, using WP-Optimize 
+[2025-03-11 14:51:35 : INFO] - Completed processing task with ID : 135, and type 'smush' 
+[2025-03-11 14:51:35 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-03-11 14:51:35 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-03-11 14:51:35 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-03-11 14:51:35 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-03-11 15:05:42 : INFO] - Re_Smush_It_Task with attachment ID : 118, autocreated on : March 11, 2025 03:05:42 
+[2025-03-11 15:06:58 : INFO] - Re_Smush_It_Task with attachment ID : 120, autocreated on : March 11, 2025 03:06:58 
+[2025-03-11 15:06:59 : INFO] - Re_Smush_It_Task with attachment ID : 121, autocreated on : March 11, 2025 03:06:59 
+[2025-03-11 15:07:00 : INFO] - Re_Smush_It_Task with attachment ID : 122, autocreated on : March 11, 2025 03:07:00 
+[2025-03-11 15:11:24 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2025-03-11 15:11:24 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-03-11 15:11:24 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-03-11 15:11:24 : INFO] - Processing task with ID : 192, and type 'smush' 
+[2025-03-11 15:11:24 : INFO] - Re_Smush_It_Task with attachment ID : 118, autocreated on : March 11, 2025 03:05:42 
+[2025-03-11 15:11:24 : INFO] - File: Shema-cinkovanie-metalla-1.png, Compression quality: 92 
+[2025-03-11 15:11:25 : INFO] - Backing up the original image - 2025/03/Shema-cinkovanie-metalla-1-updraft-pre-smush-original.png 
+[2025-03-11 15:11:26 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/Shema-cinkovanie-metalla-1.png.The file was compressed from 140.16 KB to 39.08 KB, saving 72.12 percent, using WP-Optimize 
+[2025-03-11 15:11:26 : INFO] - Completed processing task with ID : 192, and type 'smush' 
+[2025-03-11 15:11:26 : INFO] - Processing task with ID : 193, and type 'smush' 
+[2025-03-11 15:11:26 : INFO] - Re_Smush_It_Task with attachment ID : 120, autocreated on : March 11, 2025 03:06:58 
+[2025-03-11 15:11:26 : INFO] - File: image-5.png, Compression quality: 92 
+[2025-03-11 15:11:27 : INFO] - Backing up the original image - 2025/03/image-5-updraft-pre-smush-original.png 
+[2025-03-11 15:11:29 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/image-5.png.The file was compressed from 245.90 KB to 103.29 KB, saving 58 percent, using WP-Optimize 
+[2025-03-11 15:11:29 : INFO] - Completed processing task with ID : 193, and type 'smush' 
+[2025-03-11 15:11:29 : INFO] - Processing task with ID : 194, and type 'smush' 
+[2025-03-11 15:11:29 : INFO] - Re_Smush_It_Task with attachment ID : 121, autocreated on : March 11, 2025 03:06:59 
+[2025-03-11 15:11:29 : INFO] - File: image-6.png, Compression quality: 92 
+[2025-03-11 15:11:30 : INFO] - Backing up the original image - 2025/03/image-6-updraft-pre-smush-original.png 
+[2025-03-11 15:11:31 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/image-6.png.The file was compressed from 258.57 KB to 77.13 KB, saving 70.17 percent, using WP-Optimize 
+[2025-03-11 15:11:31 : INFO] - Completed processing task with ID : 194, and type 'smush' 
+[2025-03-11 15:11:31 : INFO] - Processing task with ID : 195, and type 'smush' 
+[2025-03-11 15:11:31 : INFO] - Re_Smush_It_Task with attachment ID : 122, autocreated on : March 11, 2025 03:07:00 
+[2025-03-11 15:11:31 : INFO] - File: image-4.png, Compression quality: 92 
+[2025-03-11 15:11:32 : INFO] - Backing up the original image - 2025/03/image-4-updraft-pre-smush-original.png 
+[2025-03-11 15:11:33 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/image-4.png.The file was compressed from 83.27 KB to 30.88 KB, saving 62.92 percent, using WP-Optimize 
+[2025-03-11 15:11:33 : INFO] - Completed processing task with ID : 195, and type 'smush' 
+[2025-03-11 15:11:33 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-03-11 15:11:33 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2025-03-11 15:11:33 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-03-11 15:11:33 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2025-03-12 09:18:37 : INFO] - Re_Smush_It_Task with attachment ID : 128, autocreated on : March 12, 2025 09:18:37 
+[2025-03-12 09:19:03 : INFO] - Re_Smush_It_Task with attachment ID : 129, autocreated on : March 12, 2025 09:19:03 
+[2025-03-12 09:19:22 : INFO] - Re_Smush_It_Task with attachment ID : 130, autocreated on : March 12, 2025 09:19:22 
+[2025-03-12 09:19:33 : INFO] - Re_Smush_It_Task with attachment ID : 131, autocreated on : March 12, 2025 09:19:33 
+[2025-03-12 09:23:40 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2025-03-12 09:23:40 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-03-12 09:23:40 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-03-12 09:23:40 : INFO] - Processing task with ID : 238, and type 'smush' 
+[2025-03-12 09:23:40 : INFO] - Re_Smush_It_Task with attachment ID : 128, autocreated on : March 12, 2025 09:18:37 
+[2025-03-12 09:23:40 : INFO] - File: image-7.png, Compression quality: 92 
+[2025-03-12 09:23:41 : INFO] - Backing up the original image - 2025/03/image-7-updraft-pre-smush-original.png 
+[2025-03-12 09:23:42 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/image-7.png.The file was compressed from 269.08 KB to 66.34 KB, saving 75.35 percent, using WP-Optimize 
+[2025-03-12 09:23:42 : INFO] - Completed processing task with ID : 238, and type 'smush' 
+[2025-03-12 09:23:42 : INFO] - Processing task with ID : 239, and type 'smush' 
+[2025-03-12 09:23:42 : INFO] - Re_Smush_It_Task with attachment ID : 129, autocreated on : March 12, 2025 09:19:03 
+[2025-03-12 09:23:42 : INFO] - File: image-8.png, Compression quality: 92 
+[2025-03-12 09:23:43 : INFO] - Backing up the original image - 2025/03/image-8-updraft-pre-smush-original.png 
+[2025-03-12 09:23:44 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/image-8.png.The file was compressed from 82.93 KB to 18.97 KB, saving 77.13 percent, using WP-Optimize 
+[2025-03-12 09:23:44 : INFO] - Completed processing task with ID : 239, and type 'smush' 
+[2025-03-12 09:23:44 : INFO] - Processing task with ID : 240, and type 'smush' 
+[2025-03-12 09:23:44 : INFO] - Re_Smush_It_Task with attachment ID : 130, autocreated on : March 12, 2025 09:19:22 
+[2025-03-12 09:23:44 : INFO] - File: image-9.png, Compression quality: 92 
+[2025-03-12 09:23:45 : INFO] - Backing up the original image - 2025/03/image-9-updraft-pre-smush-original.png 
+[2025-03-12 09:23:46 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/image-9.png.The file was compressed from 25.75 KB to 10.30 KB, saving 59.99 percent, using WP-Optimize 
+[2025-03-12 09:23:46 : INFO] - Completed processing task with ID : 240, and type 'smush' 
+[2025-03-12 09:23:46 : INFO] - Processing task with ID : 241, and type 'smush' 
+[2025-03-12 09:23:46 : INFO] - Re_Smush_It_Task with attachment ID : 131, autocreated on : March 12, 2025 09:19:33 
+[2025-03-12 09:23:46 : INFO] - File: image-10.png, Compression quality: 92 
+[2025-03-12 09:23:47 : INFO] - Backing up the original image - 2025/03/image-10-updraft-pre-smush-original.png 
+[2025-03-12 09:23:49 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/image-10.png.The file was compressed from 294.53 KB to 100.28 KB, saving 65.95 percent, using WP-Optimize 
+[2025-03-12 09:23:49 : INFO] - Completed processing task with ID : 241, and type 'smush' 
+[2025-03-12 09:23:49 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-03-12 09:23:49 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2025-03-12 09:23:49 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-03-12 09:23:49 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2025-03-12 13:38:29 : INFO] - Re_Smush_It_Task with attachment ID : 139, autocreated on : March 12, 2025 01:38:29 
+[2025-03-12 13:38:36 : INFO] - Re_Smush_It_Task with attachment ID : 140, autocreated on : March 12, 2025 01:38:36 
+[2025-03-12 13:43:46 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-03-12 13:43:46 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-03-12 13:43:46 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-03-12 13:43:46 : INFO] - Processing task with ID : 355, and type 'smush' 
+[2025-03-12 13:43:46 : INFO] - Re_Smush_It_Task with attachment ID : 139, autocreated on : March 12, 2025 01:38:29 
+[2025-03-12 13:43:46 : INFO] - File: logo.png, Compression quality: 92 
+[2025-03-12 13:43:47 : INFO] - Backing up the original image - 2025/03/logo-updraft-pre-smush-original.png 
+[2025-03-12 13:43:48 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/logo.png.The file was compressed from 9.87 KB to 4.05 KB, saving 58.97 percent, using WP-Optimize 
+[2025-03-12 13:43:48 : INFO] - Completed processing task with ID : 355, and type 'smush' 
+[2025-03-12 13:43:48 : INFO] - Processing task with ID : 356, and type 'smush' 
+[2025-03-12 13:43:48 : INFO] - Re_Smush_It_Task with attachment ID : 140, autocreated on : March 12, 2025 01:38:36 
+[2025-03-12 13:43:48 : INFO] - File: cropped-logo.png, Compression quality: 92 
+[2025-03-12 13:43:48 : INFO] - Backing up the original image - 2025/03/cropped-logo-updraft-pre-smush-original.png 
+[2025-03-12 13:43:49 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/cropped-logo.png.The file was compressed from 10.12 KB to 3.86 KB, saving 61.9 percent, using WP-Optimize 
+[2025-03-12 13:43:49 : INFO] - Completed processing task with ID : 356, and type 'smush' 
+[2025-03-12 13:43:49 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-03-12 13:43:49 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-03-12 13:43:49 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-03-12 13:43:49 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-03-12 14:46:20 : INFO] - Re_Smush_It_Task with attachment ID : 143, autocreated on : March 12, 2025 02:46:20 
+[2025-03-12 14:46:21 : INFO] - Re_Smush_It_Task with attachment ID : 144, autocreated on : March 12, 2025 02:46:21 
+[2025-03-12 14:46:22 : INFO] - Re_Smush_It_Task with attachment ID : 145, autocreated on : March 12, 2025 02:46:22 
+[2025-03-12 14:46:23 : INFO] - Re_Smush_It_Task with attachment ID : 146, autocreated on : March 12, 2025 02:46:23 
+[2025-03-12 14:46:24 : INFO] - Re_Smush_It_Task with attachment ID : 147, autocreated on : March 12, 2025 02:46:24 
+[2025-03-12 14:52:50 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2025-03-12 14:52:50 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-03-12 14:52:50 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-03-12 14:52:50 : INFO] - Processing task with ID : 357, and type 'smush' 
+[2025-03-12 14:52:50 : INFO] - Re_Smush_It_Task with attachment ID : 143, autocreated on : March 12, 2025 02:46:20 
+[2025-03-12 14:52:50 : INFO] - File: stainless_fasteners.png, Compression quality: 92 
+[2025-03-12 14:52:51 : INFO] - Backing up the original image - 2025/03/stainless_fasteners-updraft-pre-smush-original.png 
+[2025-03-12 14:52:52 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/stainless_fasteners.png.The file was compressed from 33.73 KB to 12.90 KB, saving 61.75 percent, using WP-Optimize 
+[2025-03-12 14:52:52 : INFO] - Completed processing task with ID : 357, and type 'smush' 
+[2025-03-12 14:52:52 : INFO] - Processing task with ID : 358, and type 'smush' 
+[2025-03-12 14:52:52 : INFO] - Re_Smush_It_Task with attachment ID : 144, autocreated on : March 12, 2025 02:46:21 
+[2025-03-12 14:52:52 : INFO] - File: polyamide_fasteners.png, Compression quality: 92 
+[2025-03-12 14:52:52 : INFO] - Backing up the original image - 2025/03/polyamide_fasteners-updraft-pre-smush-original.png 
+[2025-03-12 14:52:53 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/polyamide_fasteners.png.The file was compressed from 24.80 KB to 9.04 KB, saving 63.55 percent, using WP-Optimize 
+[2025-03-12 14:52:53 : INFO] - Completed processing task with ID : 358, and type 'smush' 
+[2025-03-12 14:52:53 : INFO] - Processing task with ID : 359, and type 'smush' 
+[2025-03-12 14:52:53 : INFO] - Re_Smush_It_Task with attachment ID : 145, autocreated on : March 12, 2025 02:46:22 
+[2025-03-12 14:52:53 : INFO] - File: micro_fasteners.png, Compression quality: 92 
+[2025-03-12 14:52:54 : INFO] - Backing up the original image - 2025/03/micro_fasteners-updraft-pre-smush-original.png 
+[2025-03-12 14:52:55 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/micro_fasteners.png.The file was compressed from 90.46 KB to 27.75 KB, saving 69.32 percent, using WP-Optimize 
+[2025-03-12 14:52:55 : INFO] - Completed processing task with ID : 359, and type 'smush' 
+[2025-03-12 14:52:55 : INFO] - Processing task with ID : 360, and type 'smush' 
+[2025-03-12 14:52:55 : INFO] - Re_Smush_It_Task with attachment ID : 146, autocreated on : March 12, 2025 02:46:23 
+[2025-03-12 14:52:55 : INFO] - File: high_strength_fasteners.png, Compression quality: 92 
+[2025-03-12 14:52:55 : INFO] - Backing up the original image - 2025/03/high_strength_fasteners-updraft-pre-smush-original.png 
+[2025-03-12 14:52:56 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/high_strength_fasteners.png.The file was compressed from 29.01 KB to 11.08 KB, saving 61.8 percent, using WP-Optimize 
+[2025-03-12 14:52:56 : INFO] - Completed processing task with ID : 360, and type 'smush' 
+[2025-03-12 14:52:56 : INFO] - Processing task with ID : 361, and type 'smush' 
+[2025-03-12 14:52:56 : INFO] - Re_Smush_It_Task with attachment ID : 147, autocreated on : March 12, 2025 02:46:24 
+[2025-03-12 14:52:56 : INFO] - File: brass_fasteners.png, Compression quality: 92 
+[2025-03-12 14:52:56 : INFO] - Backing up the original image - 2025/03/brass_fasteners-updraft-pre-smush-original.png 
+[2025-03-12 14:52:57 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/brass_fasteners.png.The file was compressed from 54.32 KB to 18.03 KB, saving 66.81 percent, using WP-Optimize 
+[2025-03-12 14:52:57 : INFO] - Completed processing task with ID : 361, and type 'smush' 
+[2025-03-12 14:52:57 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-03-12 14:52:57 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2025-03-12 14:52:57 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-03-12 14:52:57 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2025-03-13 09:57:57 : INFO] - Re_Smush_It_Task with attachment ID : 152, autocreated on : March 13, 2025 09:57:57 
+[2025-03-13 09:58:19 : INFO] - Re_Smush_It_Task server status: Online 
+[2025-03-13 09:58:20 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-03-13 09:58:20 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-03-13 09:58:20 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-03-13 09:58:20 : INFO] - Processing task with ID : 362, and type 'smush' 
+[2025-03-13 09:58:20 : INFO] - Re_Smush_It_Task with attachment ID : 152, autocreated on : March 13, 2025 09:57:57 
+[2025-03-13 09:58:20 : INFO] - File: powder_coating.png, Compression quality: 92 
+[2025-03-13 09:58:21 : INFO] - Backing up the original image - 2025/03/powder_coating-updraft-pre-smush-original.png 
+[2025-03-13 09:58:22 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/powder_coating.png.The file was compressed from 27.83 KB to 8.52 KB, saving 69.37 percent, using WP-Optimize 
+[2025-03-13 09:58:22 : INFO] - Completed processing task with ID : 362, and type 'smush' 
+[2025-03-13 09:58:22 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-03-13 09:58:22 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-03-13 09:58:22 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-03-13 09:58:22 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-03-13 11:59:24 : INFO] - Pruning the smush log file 
+[2025-03-17 10:21:50 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 17, 2025 10:21:50 
+[2025-03-17 10:26:54 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-03-17 10:26:54 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-03-17 10:26:54 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-03-17 10:26:54 : INFO] - Processing task with ID : 393, and type 'smush' 
+[2025-03-17 10:26:54 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 17, 2025 10:21:50 
+[2025-03-17 10:26:54 : INFO] - File: woocommerce-placeholder.png, Compression quality: 92 
+[2025-03-17 10:26:56 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2025-03-17 10:26:58 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 47.02 KB to 47.02 KB, saving 0 percent, using WP-Optimize 
+[2025-03-17 10:26:58 : INFO] - Completed processing task with ID : 393, and type 'smush' 
+[2025-03-17 10:26:58 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-03-17 10:26:58 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-03-17 10:26:58 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-03-17 10:26:58 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-03-17 10:30:14 : INFO] - Re_Smush_It_Task with attachment ID : 220, autocreated on : March 17, 2025 10:30:14 
+[2025-03-17 10:37:46 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-03-17 10:37:46 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-03-17 10:37:47 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-03-17 10:37:47 : INFO] - Processing task with ID : 404, and type 'smush' 
+[2025-03-17 10:37:47 : INFO] - Re_Smush_It_Task with attachment ID : 220, autocreated on : March 17, 2025 10:30:14 
+[2025-03-17 10:37:47 : INFO] - File: screw-isolated-transparent-background-1.png, Compression quality: 92 
+[2025-03-17 10:37:47 : INFO] - Backing up the original image - 2025/03/screw-isolated-transparent-background-1-updraft-pre-smush-original.png 
+[2025-03-17 10:37:48 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/screw-isolated-transparent-background-1.png.The file was compressed from 29.02 KB to 10.32 KB, saving 64.44 percent, using WP-Optimize 
+[2025-03-17 10:37:48 : INFO] - Completed processing task with ID : 404, and type 'smush' 
+[2025-03-17 10:37:48 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-03-17 10:37:48 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-03-17 10:37:48 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-03-17 10:37:48 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-03-20 12:16:00 : INFO] - Re_Smush_It_Task with attachment ID : 229, autocreated on : March 20, 2025 12:15:59 
+[2025-03-20 12:21:07 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-03-20 12:21:07 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-03-20 12:21:07 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-03-20 12:21:07 : INFO] - Processing task with ID : 430, and type 'smush' 
+[2025-03-20 12:21:07 : INFO] - Re_Smush_It_Task with attachment ID : 229, autocreated on : March 20, 2025 12:15:59 
+[2025-03-20 12:21:07 : INFO] - File: services.png, Compression quality: 92 
+[2025-03-20 12:21:09 : INFO] - Backing up the original image - 2025/03/services-updraft-pre-smush-original.png 
+[2025-03-20 12:21:12 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/services.png.The file was compressed from 225.94 KB to 113.34 KB, saving 49.84 percent, using WP-Optimize 
+[2025-03-20 12:21:12 : INFO] - Completed processing task with ID : 430, and type 'smush' 
+[2025-03-20 12:21:12 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-03-20 12:21:12 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-03-20 12:21:12 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-03-20 12:21:12 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-03-20 12:22:26 : INFO] - Re_Smush_It_Task with attachment ID : 235, autocreated on : March 20, 2025 12:22:26 
+[2025-03-20 12:31:21 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-03-20 12:31:21 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-03-20 12:31:21 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-03-20 12:31:21 : INFO] - Processing task with ID : 441, and type 'smush' 
+[2025-03-20 12:31:21 : INFO] - Re_Smush_It_Task with attachment ID : 235, autocreated on : March 20, 2025 12:22:26 
+[2025-03-20 12:31:21 : INFO] - File: services-1.png, Compression quality: 92 
+[2025-03-20 12:31:22 : INFO] - Backing up the original image - 2025/03/services-1-updraft-pre-smush-original.png 
+[2025-03-20 12:31:26 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/services-1.png.The file was compressed from 225.94 KB to 113.34 KB, saving 49.84 percent, using WP-Optimize 
+[2025-03-20 12:31:26 : INFO] - Completed processing task with ID : 441, and type 'smush' 
+[2025-03-20 12:31:26 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-03-20 12:31:26 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-03-20 12:31:26 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-03-20 12:31:26 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-03-27 13:51:44 : INFO] - Re_Smush_It_Task with attachment ID : 253, autocreated on : March 27, 2025 01:51:44 
+[2025-04-04 11:51:45 : INFO] - Re_Smush_It_Task with attachment ID : 277, autocreated on : April 04, 2025 11:51:45 
+[2025-04-04 11:51:51 : INFO] - Re_Smush_It_Task with attachment ID : 278, autocreated on : April 04, 2025 11:51:51 
+[2025-04-04 12:04:33 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2025-04-04 12:04:33 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-04 12:04:33 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-04 12:04:33 : INFO] - Processing task with ID : 496, and type 'smush' 
+[2025-04-04 12:04:33 : INFO] - Re_Smush_It_Task with attachment ID : 253, autocreated on : March 27, 2025 01:51:44 
+[2025-04-04 12:04:33 : INFO] - File: table-gost-7798-70.png.png, Compression quality: 92 
+[2025-04-04 12:04:35 : INFO] - Backing up the original image - 2025/03/table-gost-7798-70.png-updraft-pre-smush-original.png 
+[2025-04-04 12:04:40 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/table-gost-7798-70.png.png.The file was compressed from 198.53 KB to 100.44 KB, saving 49.41 percent, using WP-Optimize 
+[2025-04-04 12:04:40 : INFO] - Completed processing task with ID : 496, and type 'smush' 
+[2025-04-04 12:04:40 : INFO] - Processing task with ID : 525, and type 'smush' 
+[2025-04-04 12:04:40 : INFO] - Re_Smush_It_Task with attachment ID : 277, autocreated on : April 04, 2025 11:51:45 
+[2025-04-04 12:04:40 : INFO] - File: 12121212121.png, Compression quality: 92 
+[2025-04-04 12:04:41 : INFO] - Backing up the original image - 2025/03/12121212121-updraft-pre-smush-original.png 
+[2025-04-04 12:04:47 : INFO] - Task with ID 525 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2025-04-04 12:04:47 : INFO] - data: {"src":"http:\/\/hel2.static.resmush.it\/7fb3c81d82eef1e9b4d7f514814313fd\/_src_12121212121-150x150.png","dest":"http:\/\/hel2.static.resmush.it\/7fb3c81d82eef1e9b4d7f514814313fd\/12121212121-150x150.png","src_size":42256,"dest_size":21642,"percent":49,"output":"json","expires":"Fri, 04 Apr 2025 14:09:42 +0200","generator":"reSmush.it rev.3.0.11.20240125"} 
+[2025-04-04 12:04:51 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/12121212121.png.The file was compressed from 475.14 KB to 475.13 KB, saving 0 percent, using WP-Optimize 
+[2025-04-04 12:04:51 : INFO] - Completed processing task with ID : 525, and type 'smush' 
+[2025-04-04 12:04:51 : INFO] - Processing task with ID : 526, and type 'smush' 
+[2025-04-04 12:04:51 : INFO] - Re_Smush_It_Task with attachment ID : 278, autocreated on : April 04, 2025 11:51:51 
+[2025-04-04 12:04:51 : INFO] - File: Frame-1321314706-2.png, Compression quality: 92 
+[2025-04-04 12:04:52 : INFO] - Backing up the original image - 2025/03/Frame-1321314706-2-updraft-pre-smush-original.png 
+[2025-04-04 12:04:57 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/03/Frame-1321314706-2.png.The file was compressed from 186.01 KB to 186.01 KB, saving 0 percent, using WP-Optimize 
+[2025-04-04 12:04:57 : INFO] - Completed processing task with ID : 526, and type 'smush' 
+[2025-04-04 12:04:57 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-04 12:04:57 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2025-04-04 12:04:57 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-04 12:04:57 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-04-05 11:46:24 : INFO] - Re_Smush_It_Task with attachment ID : 283, autocreated on : April 05, 2025 11:46:24 
+[2025-04-05 11:47:06 : INFO] - Re_Smush_It_Task with attachment ID : 284, autocreated on : April 05, 2025 11:47:06 
+[2025-04-05 11:48:06 : INFO] - Re_Smush_It_Task with attachment ID : 285, autocreated on : April 05, 2025 11:48:06 
+[2025-04-05 11:51:34 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2025-04-05 11:51:34 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-05 11:51:34 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-05 11:51:34 : INFO] - Processing task with ID : 565, and type 'smush' 
+[2025-04-05 11:51:34 : INFO] - Re_Smush_It_Task with attachment ID : 283, autocreated on : April 05, 2025 11:46:24 
+[2025-04-05 11:51:34 : INFO] - File: screws.png, Compression quality: 92 
+[2025-04-05 11:51:35 : INFO] - Backing up the original image - 2025/04/screws-updraft-pre-smush-original.png 
+[2025-04-05 11:51:35 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/screws.png.The file was compressed from 6.14 KB to 2.87 KB, saving 53.2 percent, using WP-Optimize 
+[2025-04-05 11:51:36 : INFO] - Completed processing task with ID : 565, and type 'smush' 
+[2025-04-05 11:51:36 : INFO] - Processing task with ID : 566, and type 'smush' 
+[2025-04-05 11:51:36 : INFO] - Re_Smush_It_Task with attachment ID : 284, autocreated on : April 05, 2025 11:47:06 
+[2025-04-05 11:51:36 : INFO] - File: nuts.png, Compression quality: 92 
+[2025-04-05 11:51:36 : INFO] - Backing up the original image - 2025/04/nuts-updraft-pre-smush-original.png 
+[2025-04-05 11:51:36 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/nuts.png.The file was compressed from 8.91 KB to 4.12 KB, saving 53.71 percent, using WP-Optimize 
+[2025-04-05 11:51:36 : INFO] - Completed processing task with ID : 566, and type 'smush' 
+[2025-04-05 11:51:36 : INFO] - Processing task with ID : 567, and type 'smush' 
+[2025-04-05 11:51:37 : INFO] - Re_Smush_It_Task with attachment ID : 285, autocreated on : April 05, 2025 11:48:06 
+[2025-04-05 11:51:37 : INFO] - File: washers.png, Compression quality: 92 
+[2025-04-05 11:51:38 : INFO] - Backing up the original image - 2025/04/washers-updraft-pre-smush-original.png 
+[2025-04-05 11:51:38 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/washers.png.The file was compressed from 5.57 KB to 3.05 KB, saving 45.26 percent, using WP-Optimize 
+[2025-04-05 11:51:38 : INFO] - Completed processing task with ID : 567, and type 'smush' 
+[2025-04-05 11:51:38 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-05 11:51:38 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2025-04-05 11:51:38 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-05 11:51:38 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-04-05 13:58:56 : INFO] - Re_Smush_It_Task with attachment ID : 288, autocreated on : April 05, 2025 01:58:56 
+[2025-04-05 14:04:28 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-04-05 14:04:28 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-05 14:04:28 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-05 14:04:28 : INFO] - Processing task with ID : 583, and type 'smush' 
+[2025-04-05 14:04:28 : INFO] - Re_Smush_It_Task with attachment ID : 288, autocreated on : April 05, 2025 01:58:56 
+[2025-04-05 14:04:28 : INFO] - File: bolt_br_8.png, Compression quality: 92 
+[2025-04-05 14:04:31 : INFO] - Backing up the original image - 2025/04/bolt_br_8-updraft-pre-smush-original.png 
+[2025-04-05 14:04:41 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/bolt_br_8.png.The file was compressed from 18.64 KB to 9.04 KB, saving 51.5 percent, using WP-Optimize 
+[2025-04-05 14:04:41 : INFO] - Completed processing task with ID : 583, and type 'smush' 
+[2025-04-05 14:04:41 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-05 14:04:41 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-04-05 14:04:41 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-05 14:04:41 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-04-07 12:08:02 : INFO] - Re_Smush_It_Task with attachment ID : 293, autocreated on : April 07, 2025 12:08:02 
+[2025-04-07 12:08:04 : INFO] - Re_Smush_It_Task with attachment ID : 294, autocreated on : April 07, 2025 12:08:04 
+[2025-04-07 12:08:07 : INFO] - Re_Smush_It_Task with attachment ID : 295, autocreated on : April 07, 2025 12:08:07 
+[2025-04-07 12:08:09 : INFO] - Re_Smush_It_Task with attachment ID : 296, autocreated on : April 07, 2025 12:08:09 
+[2025-04-07 12:08:11 : INFO] - Re_Smush_It_Task with attachment ID : 297, autocreated on : April 07, 2025 12:08:11 
+[2025-04-07 12:08:13 : INFO] - Re_Smush_It_Task with attachment ID : 298, autocreated on : April 07, 2025 12:08:13 
+[2025-04-07 12:08:15 : INFO] - Re_Smush_It_Task with attachment ID : 299, autocreated on : April 07, 2025 12:08:15 
+[2025-04-07 12:08:17 : INFO] - Re_Smush_It_Task with attachment ID : 300, autocreated on : April 07, 2025 12:08:17 
+[2025-04-07 12:08:19 : INFO] - Re_Smush_It_Task with attachment ID : 301, autocreated on : April 07, 2025 12:08:19 
+[2025-04-07 12:08:22 : INFO] - Re_Smush_It_Task with attachment ID : 302, autocreated on : April 07, 2025 12:08:22 
+[2025-04-07 12:08:24 : INFO] - Re_Smush_It_Task with attachment ID : 303, autocreated on : April 07, 2025 12:08:24 
+[2025-04-07 12:08:26 : INFO] - Re_Smush_It_Task with attachment ID : 304, autocreated on : April 07, 2025 12:08:26 
+[2025-04-07 12:08:28 : INFO] - Re_Smush_It_Task with attachment ID : 305, autocreated on : April 07, 2025 12:08:28 
+[2025-04-07 12:08:30 : INFO] - Re_Smush_It_Task with attachment ID : 306, autocreated on : April 07, 2025 12:08:30 
+[2025-04-07 12:08:32 : INFO] - Re_Smush_It_Task with attachment ID : 307, autocreated on : April 07, 2025 12:08:32 
+[2025-04-07 12:08:34 : INFO] - Re_Smush_It_Task with attachment ID : 308, autocreated on : April 07, 2025 12:08:34 
+[2025-04-07 12:08:36 : INFO] - Re_Smush_It_Task with attachment ID : 309, autocreated on : April 07, 2025 12:08:36 
+[2025-04-07 12:13:13 : INFO] - A total of 17 tasks of type smush found and will be processed in this iteration 
+[2025-04-07 12:13:13 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-07 12:13:13 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-07 12:13:13 : INFO] - Processing task with ID : 638, and type 'smush' 
+[2025-04-07 12:13:13 : INFO] - Re_Smush_It_Task with attachment ID : 293, autocreated on : April 07, 2025 12:08:02 
+[2025-04-07 12:13:13 : INFO] - File: catalog-bolt.png, Compression quality: 92 
+[2025-04-07 12:13:14 : INFO] - Backing up the original image - 2025/04/catalog-bolt-updraft-pre-smush-original.png 
+[2025-04-07 12:13:14 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/catalog-bolt.png.The file was compressed from 13.48 KB to 5.31 KB, saving 60.58 percent, using WP-Optimize 
+[2025-04-07 12:13:14 : INFO] - Completed processing task with ID : 638, and type 'smush' 
+[2025-04-07 12:13:14 : INFO] - Processing task with ID : 639, and type 'smush' 
+[2025-04-07 12:13:14 : INFO] - Re_Smush_It_Task with attachment ID : 294, autocreated on : April 07, 2025 12:08:04 
+[2025-04-07 12:13:14 : INFO] - File: image-1.png, Compression quality: 92 
+[2025-04-07 12:13:15 : INFO] - Backing up the original image - 2025/04/image-1-updraft-pre-smush-original.png 
+[2025-04-07 12:13:15 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/image-1.png.The file was compressed from 19.46 KB to 7.93 KB, saving 59.25 percent, using WP-Optimize 
+[2025-04-07 12:13:15 : INFO] - Completed processing task with ID : 639, and type 'smush' 
+[2025-04-07 12:13:15 : INFO] - Processing task with ID : 640, and type 'smush' 
+[2025-04-07 12:13:15 : INFO] - Re_Smush_It_Task with attachment ID : 295, autocreated on : April 07, 2025 12:08:07 
+[2025-04-07 12:13:15 : INFO] - File: image.png, Compression quality: 92 
+[2025-04-07 12:13:16 : INFO] - Backing up the original image - 2025/04/image-updraft-pre-smush-original.png 
+[2025-04-07 12:13:17 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/image.png.The file was compressed from 19.46 KB to 7.93 KB, saving 59.25 percent, using WP-Optimize 
+[2025-04-07 12:13:17 : INFO] - Completed processing task with ID : 640, and type 'smush' 
+[2025-04-07 12:13:17 : INFO] - Processing task with ID : 641, and type 'smush' 
+[2025-04-07 12:13:17 : INFO] - Re_Smush_It_Task with attachment ID : 296, autocreated on : April 07, 2025 12:08:09 
+[2025-04-07 12:13:17 : INFO] - File: ee96ff46ac8b4ba62e24ffec76ecdb68-no-bg-preview-carve.photos-1-1.png, Compression quality: 92 
+[2025-04-07 12:13:17 : INFO] - Backing up the original image - 2025/04/ee96ff46ac8b4ba62e24ffec76ecdb68-no-bg-preview-carve.photos-1-1-updraft-pre-smush-original.png 
+[2025-04-07 12:13:19 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/ee96ff46ac8b4ba62e24ffec76ecdb68-no-bg-preview-carve.photos-1-1.png.The file was compressed from 25.22 KB to 8.22 KB, saving 67.42 percent, using WP-Optimize 
+[2025-04-07 12:13:19 : INFO] - Completed processing task with ID : 641, and type 'smush' 
+[2025-04-07 12:13:19 : INFO] - Processing task with ID : 642, and type 'smush' 
+[2025-04-07 12:13:19 : INFO] - Re_Smush_It_Task with attachment ID : 297, autocreated on : April 07, 2025 12:08:11 
+[2025-04-07 12:13:19 : INFO] - File: ee96ff46ac8b4ba62e24ffec76ecdb68-no-bg-preview-carve.photos-1.png, Compression quality: 92 
+[2025-04-07 12:13:19 : INFO] - Backing up the original image - 2025/04/ee96ff46ac8b4ba62e24ffec76ecdb68-no-bg-preview-carve.photos-1-updraft-pre-smush-original.png 
+[2025-04-07 12:13:20 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/ee96ff46ac8b4ba62e24ffec76ecdb68-no-bg-preview-carve.photos-1.png.The file was compressed from 25.32 KB to 8.13 KB, saving 67.89 percent, using WP-Optimize 
+[2025-04-07 12:13:20 : INFO] - Completed processing task with ID : 642, and type 'smush' 
+[2025-04-07 12:13:20 : INFO] - Processing task with ID : 643, and type 'smush' 
+[2025-04-07 12:13:20 : INFO] - Re_Smush_It_Task with attachment ID : 298, autocreated on : April 07, 2025 12:08:13 
+[2025-04-07 12:13:20 : INFO] - File: wav46iiv0nwdlf7n1i2ufmgvkj0vy4ax-no-bg-preview-carve.photos-1.png, Compression quality: 92 
+[2025-04-07 12:13:21 : INFO] - Backing up the original image - 2025/04/wav46iiv0nwdlf7n1i2ufmgvkj0vy4ax-no-bg-preview-carve.photos-1-updraft-pre-smush-original.png 
+[2025-04-07 12:13:22 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/wav46iiv0nwdlf7n1i2ufmgvkj0vy4ax-no-bg-preview-carve.photos-1.png.The file was compressed from 20.96 KB to 6.89 KB, saving 67.12 percent, using WP-Optimize 
+[2025-04-07 12:13:22 : INFO] - Completed processing task with ID : 643, and type 'smush' 
+[2025-04-07 12:13:22 : INFO] - Processing task with ID : 644, and type 'smush' 
+[2025-04-07 12:13:22 : INFO] - Re_Smush_It_Task with attachment ID : 299, autocreated on : April 07, 2025 12:08:15 
+[2025-04-07 12:13:22 : INFO] - File: okc3e2urxbpd6qw9epzpk5otqgqwkxco-no-bg-preview-carve.photos-1.png, Compression quality: 92 
+[2025-04-07 12:13:23 : INFO] - Backing up the original image - 2025/04/okc3e2urxbpd6qw9epzpk5otqgqwkxco-no-bg-preview-carve.photos-1-updraft-pre-smush-original.png 
+[2025-04-07 12:13:23 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/okc3e2urxbpd6qw9epzpk5otqgqwkxco-no-bg-preview-carve.photos-1.png.The file was compressed from 28.83 KB to 9.78 KB, saving 66.07 percent, using WP-Optimize 
+[2025-04-07 12:13:23 : INFO] - Completed processing task with ID : 644, and type 'smush' 
+[2025-04-07 12:13:23 : INFO] - Processing task with ID : 645, and type 'smush' 
+[2025-04-07 12:13:23 : INFO] - Re_Smush_It_Task with attachment ID : 300, autocreated on : April 07, 2025 12:08:17 
+[2025-04-07 12:13:23 : INFO] - File: 486_original-no-bg-preview-carve.photos-1.png, Compression quality: 92 
+[2025-04-07 12:13:24 : INFO] - Backing up the original image - 2025/04/486_original-no-bg-preview-carve.photos-1-updraft-pre-smush-original.png 
+[2025-04-07 12:13:25 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/486_original-no-bg-preview-carve.photos-1.png.The file was compressed from 18.50 KB to 6.37 KB, saving 65.55 percent, using WP-Optimize 
+[2025-04-07 12:13:25 : INFO] - Completed processing task with ID : 645, and type 'smush' 
+[2025-04-07 12:13:25 : INFO] - Processing task with ID : 646, and type 'smush' 
+[2025-04-07 12:13:25 : INFO] - Re_Smush_It_Task with attachment ID : 301, autocreated on : April 07, 2025 12:08:19 
+[2025-04-07 12:13:25 : INFO] - File: image-15.png, Compression quality: 92 
+[2025-04-07 12:13:26 : INFO] - Backing up the original image - 2025/04/image-15-updraft-pre-smush-original.png 
+[2025-04-07 12:13:27 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/image-15.png.The file was compressed from 6.05 KB to 2.96 KB, saving 51.05 percent, using WP-Optimize 
+[2025-04-07 12:13:27 : INFO] - Completed processing task with ID : 646, and type 'smush' 
+[2025-04-07 12:13:27 : INFO] - Processing task with ID : 647, and type 'smush' 
+[2025-04-07 12:13:27 : INFO] - Re_Smush_It_Task with attachment ID : 302, autocreated on : April 07, 2025 12:08:22 
+[2025-04-07 12:13:27 : INFO] - File: t28mg3utijql020hfv1voay232b2zcbl-no-bg-preview-carve.photos-1.png, Compression quality: 92 
+[2025-04-07 12:13:27 : INFO] - Backing up the original image - 2025/04/t28mg3utijql020hfv1voay232b2zcbl-no-bg-preview-carve.photos-1-updraft-pre-smush-original.png 
+[2025-04-07 12:13:29 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/t28mg3utijql020hfv1voay232b2zcbl-no-bg-preview-carve.photos-1.png.The file was compressed from 25.47 KB to 10.26 KB, saving 59.71 percent, using WP-Optimize 
+[2025-04-07 12:13:29 : INFO] - Completed processing task with ID : 647, and type 'smush' 
+[2025-04-07 12:13:29 : INFO] - Processing task with ID : 648, and type 'smush' 
+[2025-04-07 12:13:29 : INFO] - Re_Smush_It_Task with attachment ID : 303, autocreated on : April 07, 2025 12:08:24 
+[2025-04-07 12:13:29 : INFO] - File: catalog-pins.png, Compression quality: 92 
+[2025-04-07 12:13:30 : INFO] - Backing up the original image - 2025/04/catalog-pins-updraft-pre-smush-original.png 
+[2025-04-07 12:13:31 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/catalog-pins.png.The file was compressed from 27.04 KB to 9.44 KB, saving 65.09 percent, using WP-Optimize 
+[2025-04-07 12:13:31 : INFO] - Completed processing task with ID : 648, and type 'smush' 
+[2025-04-07 12:13:31 : INFO] - Processing task with ID : 649, and type 'smush' 
+[2025-04-07 12:13:31 : INFO] - Re_Smush_It_Task with attachment ID : 304, autocreated on : April 07, 2025 12:08:26 
+[2025-04-07 12:13:31 : INFO] - File: catalog-rivets.png, Compression quality: 92 
+[2025-04-07 12:13:32 : INFO] - Backing up the original image - 2025/04/catalog-rivets-updraft-pre-smush-original.png 
+[2025-04-07 12:13:33 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/catalog-rivets.png.The file was compressed from 27.83 KB to 9.30 KB, saving 66.57 percent, using WP-Optimize 
+[2025-04-07 12:13:33 : INFO] - Completed processing task with ID : 649, and type 'smush' 
+[2025-04-07 12:13:33 : INFO] - Processing task with ID : 650, and type 'smush' 
+[2025-04-07 12:13:33 : INFO] - Re_Smush_It_Task with attachment ID : 305, autocreated on : April 07, 2025 12:08:28 
+[2025-04-07 12:13:33 : INFO] - File: screw-isolated-transparent-background-1.png, Compression quality: 92 
+[2025-04-07 12:13:34 : INFO] - Backing up the original image - 2025/04/screw-isolated-transparent-background-1-updraft-pre-smush-original.png 
+[2025-04-07 12:13:35 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/screw-isolated-transparent-background-1.png.The file was compressed from 16.32 KB to 5.87 KB, saving 64.04 percent, using WP-Optimize 
+[2025-04-07 12:13:35 : INFO] - Completed processing task with ID : 650, and type 'smush' 
+[2025-04-07 12:13:35 : INFO] - Processing task with ID : 651, and type 'smush' 
+[2025-04-07 12:13:35 : INFO] - Re_Smush_It_Task with attachment ID : 306, autocreated on : April 07, 2025 12:08:30 
+[2025-04-07 12:13:35 : INFO] - File: catalog-self-tapping.png, Compression quality: 92 
+[2025-04-07 12:13:35 : INFO] - Backing up the original image - 2025/04/catalog-self-tapping-updraft-pre-smush-original.png 
+[2025-04-07 12:13:36 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/catalog-self-tapping.png.The file was compressed from 21.82 KB to 7.68 KB, saving 64.81 percent, using WP-Optimize 
+[2025-04-07 12:13:36 : INFO] - Completed processing task with ID : 651, and type 'smush' 
+[2025-04-07 12:13:36 : INFO] - Processing task with ID : 652, and type 'smush' 
+[2025-04-07 12:13:36 : INFO] - Re_Smush_It_Task with attachment ID : 307, autocreated on : April 07, 2025 12:08:32 
+[2025-04-07 12:13:36 : INFO] - File: catalog-washers.png, Compression quality: 92 
+[2025-04-07 12:13:37 : INFO] - Backing up the original image - 2025/04/catalog-washers-updraft-pre-smush-original.png 
+[2025-04-07 12:13:38 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/catalog-washers.png.The file was compressed from 21.25 KB to 9.08 KB, saving 57.29 percent, using WP-Optimize 
+[2025-04-07 12:13:38 : INFO] - Completed processing task with ID : 652, and type 'smush' 
+[2025-04-07 12:13:38 : INFO] - Processing task with ID : 653, and type 'smush' 
+[2025-04-07 12:13:38 : INFO] - Re_Smush_It_Task with attachment ID : 308, autocreated on : April 07, 2025 12:08:34 
+[2025-04-07 12:13:38 : INFO] - File: catalog-nuts.png, Compression quality: 92 
+[2025-04-07 12:13:39 : INFO] - Backing up the original image - 2025/04/catalog-nuts-updraft-pre-smush-original.png 
+[2025-04-07 12:13:39 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/catalog-nuts.png.The file was compressed from 17.04 KB to 7.18 KB, saving 57.86 percent, using WP-Optimize 
+[2025-04-07 12:13:39 : INFO] - Completed processing task with ID : 653, and type 'smush' 
+[2025-04-07 12:13:39 : INFO] - Processing task with ID : 654, and type 'smush' 
+[2025-04-07 12:13:39 : INFO] - Re_Smush_It_Task with attachment ID : 309, autocreated on : April 07, 2025 12:08:36 
+[2025-04-07 12:13:39 : INFO] - File: catalog-screws.png, Compression quality: 92 
+[2025-04-07 12:13:40 : INFO] - Backing up the original image - 2025/04/catalog-screws-updraft-pre-smush-original.png 
+[2025-04-07 12:13:40 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/catalog-screws.png.The file was compressed from 18.10 KB to 6.65 KB, saving 63.28 percent, using WP-Optimize 
+[2025-04-07 12:13:40 : INFO] - Completed processing task with ID : 654, and type 'smush' 
+[2025-04-07 12:13:40 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-07 12:13:40 : INFO] - Successfully processed the queue (smush). 17 tasks were processed out of 17. 
+[2025-04-07 12:13:40 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-07 12:13:40 : INFO] - Cleaning up tasks of type (smush). A total of 17 tasks will be deleted. 
+[2025-04-07 12:14:40 : INFO] - Re_Smush_It_Task with attachment ID : 310, autocreated on : April 07, 2025 12:14:40 
+[2025-04-07 12:16:49 : INFO] - Re_Smush_It_Task with attachment ID : 311, autocreated on : April 07, 2025 12:16:49 
+[2025-04-07 12:18:09 : INFO] - Re_Smush_It_Task with attachment ID : 312, autocreated on : April 07, 2025 12:18:09 
+[2025-04-07 12:18:46 : INFO] - Re_Smush_It_Task with attachment ID : 313, autocreated on : April 07, 2025 12:18:46 
+[2025-04-07 12:20:35 : INFO] - Re_Smush_It_Task with attachment ID : 314, autocreated on : April 07, 2025 12:20:35 
+[2025-04-07 12:21:11 : INFO] - Re_Smush_It_Task with attachment ID : 315, autocreated on : April 07, 2025 12:21:11 
+[2025-04-07 12:22:06 : INFO] - Re_Smush_It_Task with attachment ID : 316, autocreated on : April 07, 2025 12:22:06 
+[2025-04-07 12:23:16 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2025-04-07 12:23:16 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-07 12:23:16 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-07 12:23:16 : INFO] - Processing task with ID : 661, and type 'smush' 
+[2025-04-07 12:23:16 : INFO] - Re_Smush_It_Task with attachment ID : 310, autocreated on : April 07, 2025 12:14:40 
+[2025-04-07 12:23:16 : INFO] - File: Group-218-1.png, Compression quality: 92 
+[2025-04-07 12:23:17 : INFO] - Backing up the original image - 2025/04/Group-218-1-updraft-pre-smush-original.png 
+[2025-04-07 12:23:18 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/Group-218-1.png.The file was compressed from 15.39 KB to 6.38 KB, saving 58.51 percent, using WP-Optimize 
+[2025-04-07 12:23:18 : INFO] - Completed processing task with ID : 661, and type 'smush' 
+[2025-04-07 12:23:18 : INFO] - Processing task with ID : 662, and type 'smush' 
+[2025-04-07 12:23:18 : INFO] - Re_Smush_It_Task with attachment ID : 311, autocreated on : April 07, 2025 12:16:49 
+[2025-04-07 12:23:18 : INFO] - File: Group-1.png, Compression quality: 92 
+[2025-04-07 12:23:20 : INFO] - Backing up the original image - 2025/04/Group-1-updraft-pre-smush-original.png 
+[2025-04-07 12:23:27 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/Group-1.png.The file was compressed from 627.80 KB to 175.79 KB, saving 72 percent, using WP-Optimize 
+[2025-04-07 12:23:27 : INFO] - Completed processing task with ID : 662, and type 'smush' 
+[2025-04-07 12:23:27 : INFO] - Processing task with ID : 663, and type 'smush' 
+[2025-04-07 12:23:27 : INFO] - Re_Smush_It_Task with attachment ID : 312, autocreated on : April 07, 2025 12:18:09 
+[2025-04-07 12:23:27 : INFO] - File: gug45mjw2ctfda2zyq1z773ybe86dbor-no-bg-preview-carve.photos-1.png, Compression quality: 92 
+[2025-04-07 12:23:28 : INFO] - Backing up the original image - 2025/04/gug45mjw2ctfda2zyq1z773ybe86dbor-no-bg-preview-carve.photos-1-updraft-pre-smush-original.png 
+[2025-04-07 12:23:29 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/gug45mjw2ctfda2zyq1z773ybe86dbor-no-bg-preview-carve.photos-1.png.The file was compressed from 24.98 KB to 8.44 KB, saving 66.2 percent, using WP-Optimize 
+[2025-04-07 12:23:29 : INFO] - Completed processing task with ID : 663, and type 'smush' 
+[2025-04-07 12:23:29 : INFO] - Processing task with ID : 664, and type 'smush' 
+[2025-04-07 12:23:29 : INFO] - Re_Smush_It_Task with attachment ID : 313, autocreated on : April 07, 2025 12:18:46 
+[2025-04-07 12:23:29 : INFO] - File: orig-_1_-no-bg-preview-carve.photos-1.png, Compression quality: 92 
+[2025-04-07 12:23:30 : INFO] - Backing up the original image - 2025/04/orig-_1_-no-bg-preview-carve.photos-1-updraft-pre-smush-original.png 
+[2025-04-07 12:23:30 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/orig-_1_-no-bg-preview-carve.photos-1.png.The file was compressed from 31.34 KB to 10.62 KB, saving 66.11 percent, using WP-Optimize 
+[2025-04-07 12:23:30 : INFO] - Completed processing task with ID : 664, and type 'smush' 
+[2025-04-07 12:23:30 : INFO] - Processing task with ID : 665, and type 'smush' 
+[2025-04-07 12:23:30 : INFO] - Task with ID 665 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2025-04-07 12:23:30 : INFO] - Processing task with ID : 666, and type 'smush' 
+[2025-04-07 12:23:30 : INFO] - Task with ID 666 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2025-04-07 12:23:30 : INFO] - Processing task with ID : 668, and type 'smush' 
+[2025-04-07 12:23:30 : INFO] - Task with ID 668 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2025-04-07 12:23:30 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-07 12:23:30 : INFO] - Successfully processed the queue (smush). 7 tasks were processed out of 7. 
+[2025-04-07 12:23:30 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-07 12:23:30 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2025-04-07 12:34:04 : INFO] - Re_Smush_It_Task with attachment ID : 317, autocreated on : April 07, 2025 12:34:04 
+[2025-04-07 12:39:06 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-04-07 12:39:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-07 12:39:06 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-07 12:39:06 : INFO] - Processing task with ID : 669, and type 'smush' 
+[2025-04-07 12:39:06 : INFO] - Re_Smush_It_Task with attachment ID : 317, autocreated on : April 07, 2025 12:34:04 
+[2025-04-07 12:39:06 : INFO] - File: image-3.png, Compression quality: 92 
+[2025-04-07 12:39:07 : INFO] - Backing up the original image - 2025/04/image-3-updraft-pre-smush-original.png 
+[2025-04-07 12:39:07 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/image-3.png.The file was compressed from 16.25 KB to 6.25 KB, saving 61.52 percent, using WP-Optimize 
+[2025-04-07 12:39:07 : INFO] - Completed processing task with ID : 669, and type 'smush' 
+[2025-04-07 12:39:07 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-07 12:39:07 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-04-07 12:39:07 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-07 12:39:07 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-04-07 12:40:49 : INFO] - Re_Smush_It_Task with attachment ID : 318, autocreated on : April 07, 2025 12:40:49 
+[2025-04-07 12:41:38 : INFO] - Re_Smush_It_Task with attachment ID : 319, autocreated on : April 07, 2025 12:41:38 
+[2025-04-07 12:49:10 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-04-07 12:49:10 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-07 12:49:10 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-07 12:49:10 : INFO] - Processing task with ID : 671, and type 'smush' 
+[2025-04-07 12:49:10 : INFO] - Task with ID 671 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2025-04-07 12:49:10 : INFO] - Processing task with ID : 673, and type 'smush' 
+[2025-04-07 12:49:10 : INFO] - Re_Smush_It_Task with attachment ID : 319, autocreated on : April 07, 2025 12:41:38 
+[2025-04-07 12:49:10 : INFO] - File: Group-219-Photoroom.png, Compression quality: 92 
+[2025-04-07 12:49:10 : INFO] - Backing up the original image - 2025/04/Group-219-Photoroom-updraft-pre-smush-original.png 
+[2025-04-07 12:49:12 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/Group-219-Photoroom.png.The file was compressed from 18.02 KB to 5.84 KB, saving 67.59 percent, using WP-Optimize 
+[2025-04-07 12:49:12 : INFO] - Completed processing task with ID : 673, and type 'smush' 
+[2025-04-07 12:49:12 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-07 12:49:12 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-04-07 12:49:12 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-07 12:49:12 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-04-07 12:56:21 : INFO] - Re_Smush_It_Task with attachment ID : 330, autocreated on : April 07, 2025 12:56:21 
+[2025-04-07 12:56:40 : INFO] - Re_Smush_It_Task with attachment ID : 331, autocreated on : April 07, 2025 12:56:40 
+[2025-04-07 12:57:14 : INFO] - Re_Smush_It_Task with attachment ID : 333, autocreated on : April 07, 2025 12:57:14 
+[2025-04-07 12:57:50 : INFO] - Re_Smush_It_Task with attachment ID : 334, autocreated on : April 07, 2025 12:57:50 
+[2025-04-07 12:58:28 : INFO] - Re_Smush_It_Task with attachment ID : 335, autocreated on : April 07, 2025 12:58:28 
+[2025-04-07 12:58:58 : INFO] - Re_Smush_It_Task with attachment ID : 336, autocreated on : April 07, 2025 12:58:58 
+[2025-04-07 12:59:14 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2025-04-07 12:59:14 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-07 12:59:14 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-07 12:59:14 : INFO] - Processing task with ID : 687, and type 'smush' 
+[2025-04-07 12:59:14 : INFO] - Re_Smush_It_Task with attachment ID : 330, autocreated on : April 07, 2025 12:56:21 
+[2025-04-07 12:59:14 : INFO] - File: photo_2025-02-24_12-41-29-no-bg-preview-carve.photos-1.png, Compression quality: 92 
+[2025-04-07 12:59:19 : INFO] - Task with ID 687 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2025-04-07 12:59:19 : INFO] - data: {"src":"http:\/\/fal2.static.resmush.it\/8bf2ed9d14e3f4d23342326f97018469\/_src_photo_2025-02-24_12-41-29-no-bg-preview-carve.photos-1.png","dest":"http:\/\/fal2.static.resmush.it\/8bf2ed9d14e3f4d23342326f97018469\/photo_2025-02-24_12-41-29-no-bg-preview-carve.photos-1.png","src_size":17845,"dest_size":6092,"percent":66,"output":"json","expires":"Mon, 07 Apr 2025 15:04:14 +0200","generator":"reSmush.it rev.3.0.11.20240125"} 
+[2025-04-07 12:59:20 : INFO] - Re_Smush_It_Task with attachment ID : 337, autocreated on : April 07, 2025 12:59:20 
+[2025-04-07 12:59:21 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/photo_2025-02-24_12-41-29-no-bg-preview-carve.photos-1.png.The file was compressed from 17.43 KB to 17.43 KB, saving 0 percent, using WP-Optimize 
+[2025-04-07 12:59:21 : INFO] - Completed processing task with ID : 687, and type 'smush' 
+[2025-04-07 12:59:21 : INFO] - Processing task with ID : 688, and type 'smush' 
+[2025-04-07 12:59:21 : INFO] - Re_Smush_It_Task with attachment ID : 331, autocreated on : April 07, 2025 12:56:40 
+[2025-04-07 12:59:21 : INFO] - File: smaa1fp6tsp3e60tqv3mr2nlwf388fkg-no-bg-preview-carve.photos-1.png, Compression quality: 92 
+[2025-04-07 12:59:27 : INFO] - Task with ID 688 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2025-04-07 12:59:27 : INFO] - data: {"src":"http:\/\/hel2.static.resmush.it\/65bbcf399e10fda32e886794383cb0e7\/_src_smaa1fp6tsp3e60tqv3mr2nlwf388fkg-no-bg-preview-carve.photos-1.png","dest":"http:\/\/hel2.static.resmush.it\/65bbcf399e10fda32e886794383cb0e7\/smaa1fp6tsp3e60tqv3mr2nlwf388fkg-no-bg-preview-carve.photos-1.png","src_size":23543,"dest_size":8539,"percent":64,"output":"json","expires":"Mon, 07 Apr 2025 15:04:21 +0200","generator":"reSmush.it rev.3.0.11.20240125"} 
+[2025-04-07 12:59:32 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/smaa1fp6tsp3e60tqv3mr2nlwf388fkg-no-bg-preview-carve.photos-1.png.The file was compressed from 22.99 KB to 22.99 KB, saving 0 percent, using WP-Optimize 
+[2025-04-07 12:59:32 : INFO] - Completed processing task with ID : 688, and type 'smush' 
+[2025-04-07 12:59:32 : INFO] - Processing task with ID : 689, and type 'smush' 
+[2025-04-07 12:59:32 : INFO] - Re_Smush_It_Task with attachment ID : 333, autocreated on : April 07, 2025 12:57:14 
+[2025-04-07 12:59:32 : INFO] - File: phosphating.png, Compression quality: 92 
+[2025-04-07 12:59:32 : INFO] - Backing up the original image - 2025/04/phosphating-updraft-pre-smush-original.png 
+[2025-04-07 12:59:38 : INFO] - Task with ID 689 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2025-04-07 12:59:38 : INFO] - data: {"src":"http:\/\/hel2.static.resmush.it\/d237d635ad35f0929e31c2cf036b3425\/_src_phosphating-100x91.png","dest":"http:\/\/hel2.static.resmush.it\/d237d635ad35f0929e31c2cf036b3425\/phosphating-100x91.png","src_size":15586,"dest_size":5914,"percent":62,"output":"json","expires":"Mon, 07 Apr 2025 15:04:32 +0200","generator":"reSmush.it rev.3.0.11.20240125"} 
+[2025-04-07 12:59:38 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/phosphating.png.The file was compressed from 12.55 KB to 6.21 KB, saving 50.55 percent, using WP-Optimize 
+[2025-04-07 12:59:38 : INFO] - Completed processing task with ID : 689, and type 'smush' 
+[2025-04-07 12:59:38 : INFO] - Processing task with ID : 690, and type 'smush' 
+[2025-04-07 12:59:38 : INFO] - Re_Smush_It_Task with attachment ID : 334, autocreated on : April 07, 2025 12:57:50 
+[2025-04-07 12:59:38 : INFO] - File: hot_galvanizing.png, Compression quality: 92 
+[2025-04-07 12:59:38 : INFO] - Backing up the original image - 2025/04/hot_galvanizing-updraft-pre-smush-original.png 
+[2025-04-07 12:59:39 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/hot_galvanizing.png.The file was compressed from 15.35 KB to 6.14 KB, saving 60.01 percent, using WP-Optimize 
+[2025-04-07 12:59:39 : INFO] - Completed processing task with ID : 690, and type 'smush' 
+[2025-04-07 12:59:39 : INFO] - Processing task with ID : 691, and type 'smush' 
+[2025-04-07 12:59:39 : INFO] - Re_Smush_It_Task with attachment ID : 335, autocreated on : April 07, 2025 12:58:28 
+[2025-04-07 12:59:39 : INFO] - File: thermal_diffusion_coating.png, Compression quality: 92 
+[2025-04-07 13:00:09 : INFO] - Task with ID 691 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 30008 milliseconds with 0 bytes received 
+[2025-04-07 13:00:09 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2025-04-07 13:00:15 : INFO] - Task with ID 691 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2025-04-07 13:00:15 : INFO] - data: {"src":"http:\/\/hel2.static.resmush.it\/75657a3842e89d8b2b8f4bf0c96c0612\/_src_thermal_diffusion_coating-100x98.png","dest":"http:\/\/hel2.static.resmush.it\/75657a3842e89d8b2b8f4bf0c96c0612\/thermal_diffusion_coating-100x98.png","src_size":25752,"dest_size":10786,"percent":58,"output":"json","expires":"Mon, 07 Apr 2025 15:05:09 +0200","generator":"reSmush.it rev.3.0.11.20240125"} 
+[2025-04-07 13:00:15 : INFO] - Processing task with ID : 692, and type 'smush' 
+[2025-04-07 13:00:15 : INFO] - Task with ID 692 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2025-04-07 13:00:15 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-07 13:00:15 : INFO] - Successfully processed the queue (smush). 6 tasks were processed out of 6. 
+[2025-04-07 13:00:15 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-07 13:00:15 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2025-04-07 13:06:32 : INFO] - Re_Smush_It_Task with attachment ID : 339, autocreated on : April 07, 2025 01:06:31 
+[2025-04-07 13:09:28 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-04-07 13:09:28 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-07 13:09:28 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-07 13:09:28 : INFO] - Processing task with ID : 693, and type 'smush' 
+[2025-04-07 13:09:28 : INFO] - Re_Smush_It_Task with attachment ID : 337, autocreated on : April 07, 2025 12:59:20 
+[2025-04-07 13:09:28 : INFO] - File: 812_original-no-bg-preview-carve.photos-1.png, Compression quality: 92 
+[2025-04-07 13:09:29 : INFO] - Backing up the original image - 2025/04/812_original-no-bg-preview-carve.photos-1-updraft-pre-smush-original.png 
+[2025-04-07 13:09:30 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/812_original-no-bg-preview-carve.photos-1.png.The file was compressed from 15.25 KB to 6.53 KB, saving 57.16 percent, using WP-Optimize 
+[2025-04-07 13:09:30 : INFO] - Completed processing task with ID : 693, and type 'smush' 
+[2025-04-07 13:09:30 : INFO] - Processing task with ID : 698, and type 'smush' 
+[2025-04-07 13:09:30 : INFO] - Re_Smush_It_Task with attachment ID : 339, autocreated on : April 07, 2025 01:06:31 
+[2025-04-07 13:09:30 : INFO] - File: image-5.png, Compression quality: 92 
+[2025-04-07 13:09:30 : INFO] - Backing up the original image - 2025/04/image-5-updraft-pre-smush-original.png 
+[2025-04-07 13:09:32 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/image-5.png.The file was compressed from 32.30 KB to 14.98 KB, saving 53.62 percent, using WP-Optimize 
+[2025-04-07 13:09:32 : INFO] - Completed processing task with ID : 698, and type 'smush' 
+[2025-04-07 13:09:32 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-07 13:09:32 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-04-07 13:09:32 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-07 13:09:32 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-04-10 15:08:30 : INFO] - Re_Smush_It_Task with attachment ID : 361, autocreated on : April 10, 2025 03:08:30 
+[2025-04-10 15:08:34 : INFO] - Re_Smush_It_Task with attachment ID : 362, autocreated on : April 10, 2025 03:08:34 
+[2025-04-10 15:08:38 : INFO] - Re_Smush_It_Task with attachment ID : 363, autocreated on : April 10, 2025 03:08:38 
+[2025-04-10 15:08:42 : INFO] - Re_Smush_It_Task with attachment ID : 364, autocreated on : April 10, 2025 03:08:42 
+[2025-04-10 15:10:19 : INFO] - Re_Smush_It_Task with attachment ID : 365, autocreated on : April 10, 2025 03:10:19 
+[2025-04-10 15:13:33 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2025-04-10 15:13:33 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-10 15:13:33 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-10 15:13:33 : INFO] - Processing task with ID : 742, and type 'smush' 
+[2025-04-10 15:13:33 : INFO] - Task with ID 742 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2025-04-10 15:13:33 : INFO] - Processing task with ID : 743, and type 'smush' 
+[2025-04-10 15:13:33 : INFO] - Re_Smush_It_Task with attachment ID : 362, autocreated on : April 10, 2025 03:08:34 
+[2025-04-10 15:13:33 : INFO] - File: ATE6am_9v94-no-bg-preview-carve.photos-1.png, Compression quality: 92 
+[2025-04-10 15:13:34 : INFO] - Backing up the original image - 2025/04/ATE6am_9v94-no-bg-preview-carve.photos-1-updraft-pre-smush-original.png 
+[2025-04-10 15:13:37 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/ATE6am_9v94-no-bg-preview-carve.photos-1.png.The file was compressed from 90.46 KB to 27.75 KB, saving 69.32 percent, using WP-Optimize 
+[2025-04-10 15:13:37 : INFO] - Completed processing task with ID : 743, and type 'smush' 
+[2025-04-10 15:13:37 : INFO] - Processing task with ID : 744, and type 'smush' 
+[2025-04-10 15:13:37 : INFO] - Re_Smush_It_Task with attachment ID : 363, autocreated on : April 10, 2025 03:08:38 
+[2025-04-10 15:13:37 : INFO] - File: 17691-no-bg-preview-carve.photos-1.png, Compression quality: 92 
+[2025-04-10 15:13:37 : INFO] - Backing up the original image - 2025/04/17691-no-bg-preview-carve.photos-1-updraft-pre-smush-original.png 
+[2025-04-10 15:13:38 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/17691-no-bg-preview-carve.photos-1.png.The file was compressed from 29.01 KB to 11.08 KB, saving 61.8 percent, using WP-Optimize 
+[2025-04-10 15:13:38 : INFO] - Completed processing task with ID : 744, and type 'smush' 
+[2025-04-10 15:13:38 : INFO] - Processing task with ID : 745, and type 'smush' 
+[2025-04-10 15:13:38 : INFO] - Re_Smush_It_Task with attachment ID : 364, autocreated on : April 10, 2025 03:08:42 
+[2025-04-10 15:13:38 : INFO] - File: bolts-nuts-no-bg-preview-carve.photos-1.png, Compression quality: 92 
+[2025-04-10 15:13:39 : INFO] - Backing up the original image - 2025/04/bolts-nuts-no-bg-preview-carve.photos-1-updraft-pre-smush-original.png 
+[2025-04-10 15:13:40 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/bolts-nuts-no-bg-preview-carve.photos-1.png.The file was compressed from 54.32 KB to 18.03 KB, saving 66.81 percent, using WP-Optimize 
+[2025-04-10 15:13:40 : INFO] - Completed processing task with ID : 745, and type 'smush' 
+[2025-04-10 15:13:40 : INFO] - Processing task with ID : 746, and type 'smush' 
+[2025-04-10 15:13:40 : INFO] - Re_Smush_It_Task with attachment ID : 365, autocreated on : April 10, 2025 03:10:19 
+[2025-04-10 15:13:40 : INFO] - File: H15c8482972d348dcbef7c2be0e0e2afax-no-bg-preview-carve.photos-1.png, Compression quality: 92 
+[2025-04-10 15:13:40 : INFO] - Backing up the original image - 2025/04/H15c8482972d348dcbef7c2be0e0e2afax-no-bg-preview-carve.photos-1-updraft-pre-smush-original.png 
+[2025-04-10 15:13:41 : INFO] - Successfully optimized the image - D:\Program\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/H15c8482972d348dcbef7c2be0e0e2afax-no-bg-preview-carve.photos-1.png.The file was compressed from 24.80 KB to 9.04 KB, saving 63.55 percent, using WP-Optimize 
+[2025-04-10 15:13:41 : INFO] - Completed processing task with ID : 746, and type 'smush' 
+[2025-04-10 15:13:41 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-10 15:13:41 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2025-04-10 15:13:41 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-10 15:13:41 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2025-04-10 15:48:46 : INFO] - Re_Smush_It_Task with attachment ID : 369, autocreated on : April 10, 2025 03:48:46 
+[2025-04-10 15:49:12 : INFO] - Re_Smush_It_Task with attachment ID : 370, autocreated on : April 10, 2025 03:49:12 
+[2025-04-10 15:50:09 : INFO] - Re_Smush_It_Task with attachment ID : 371, autocreated on : April 10, 2025 03:50:09 
+[2025-04-10 15:50:35 : INFO] - Re_Smush_It_Task with attachment ID : 372, autocreated on : April 10, 2025 03:50:35 
+[2025-04-10 15:54:07 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2025-04-10 15:54:07 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-10 15:54:07 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-10 15:54:07 : INFO] - Processing task with ID : 751, and type 'smush' 
+[2025-04-10 15:54:07 : INFO] - Task with ID 751 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2025-04-10 15:54:07 : INFO] - Processing task with ID : 752, and type 'smush' 
+[2025-04-10 15:54:07 : INFO] - Re_Smush_It_Task with attachment ID : 370, autocreated on : April 10, 2025 03:49:12 
+[2025-04-10 15:54:07 : INFO] - File: Frame-1272637956.png, Compression quality: 92 
+[2025-04-10 15:54:09 : INFO] - Backing up the original image - 2025/04/Frame-1272637956-updraft-pre-smush-original.png 
+[2025-04-10 15:54:13 : INFO] - Successfully optimized the image - /var/www/u3052351/data/www/krepion.ru/wp-content/uploads/2025/04/Frame-1272637956.png.Файл был сжат с 867.90 KB до 257.19 KB, сохранив 70.37 процентов, с помощью WP-Optimize 
+[2025-04-10 15:54:13 : INFO] - Completed processing task with ID : 752, and type 'smush' 
+[2025-04-10 15:54:13 : INFO] - Processing task with ID : 753, and type 'smush' 
+[2025-04-10 15:54:13 : INFO] - Re_Smush_It_Task with attachment ID : 371, autocreated on : April 10, 2025 03:50:09 
+[2025-04-10 15:54:13 : INFO] - File: Frame-1272637955.png, Compression quality: 92 
+[2025-04-10 15:54:14 : INFO] - Backing up the original image - 2025/04/Frame-1272637955-updraft-pre-smush-original.png 
+[2025-04-10 15:54:18 : INFO] - Successfully optimized the image - /var/www/u3052351/data/www/krepion.ru/wp-content/uploads/2025/04/Frame-1272637955.png.Файл был сжат с 369.54 KB до 111.27 KB, сохранив 69.89 процентов, с помощью WP-Optimize 
+[2025-04-10 15:54:18 : INFO] - Completed processing task with ID : 753, and type 'smush' 
+[2025-04-10 15:54:18 : INFO] - Processing task with ID : 754, and type 'smush' 
+[2025-04-10 15:54:18 : INFO] - Re_Smush_It_Task with attachment ID : 372, autocreated on : April 10, 2025 03:50:35 
+[2025-04-10 15:54:18 : INFO] - File: Ресурс-1-3.png, Compression quality: 92 
+[2025-04-10 15:54:20 : INFO] - Backing up the original image - 2025/04/Ресурс-1-3-updraft-pre-smush-original.png 
+[2025-04-10 15:54:24 : INFO] - Successfully optimized the image - /var/www/u3052351/data/www/krepion.ru/wp-content/uploads/2025/04/Ресурс-1-3.png.Файл был сжат с 530.12 KB до 290.04 KB, сохранив 45.29 процентов, с помощью WP-Optimize 
+[2025-04-10 15:54:24 : INFO] - Completed processing task with ID : 754, and type 'smush' 
+[2025-04-10 15:54:24 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-10 15:54:24 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2025-04-10 15:54:24 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-10 15:54:24 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-04-10 21:20:00 : INFO] - Re_Smush_It_Task with attachment ID : 376, autocreated on : April 10, 2025 09:20:00 
+[2025-04-10 21:23:43 : INFO] - Re_Smush_It_Task with attachment ID : 379, autocreated on : April 10, 2025 09:23:43 
+[2025-04-10 21:25:06 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-04-10 21:25:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-10 21:25:06 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-10 21:25:06 : INFO] - Processing task with ID : 763, and type 'smush' 
+[2025-04-10 21:25:06 : INFO] - Re_Smush_It_Task with attachment ID : 376, autocreated on : April 10, 2025 09:20:00 
+[2025-04-10 21:25:06 : INFO] - File: Frame-1321314715.png, Compression quality: 92 
+[2025-04-10 21:25:06 : INFO] - Backing up the original image - 2025/04/Frame-1321314715-updraft-pre-smush-original.png 
+[2025-04-10 21:25:07 : INFO] - Successfully optimized the image - /var/www/u3052351/data/www/krepion.ru/wp-content/uploads/2025/04/Frame-1321314715.png.Файл был сжат с 93.07 KB до 30.42 KB, сохранив 67.31 процентов, с помощью WP-Optimize 
+[2025-04-10 21:25:07 : INFO] - Completed processing task with ID : 763, and type 'smush' 
+[2025-04-10 21:25:07 : INFO] - Processing task with ID : 768, and type 'smush' 
+[2025-04-10 21:25:07 : INFO] - Re_Smush_It_Task with attachment ID : 379, autocreated on : April 10, 2025 09:23:43 
+[2025-04-10 21:25:07 : INFO] - File: image-1173.png, Compression quality: 92 
+[2025-04-10 21:25:09 : INFO] - Backing up the original image - 2025/04/image-1173-updraft-pre-smush-original.png 
+[2025-04-10 21:25:11 : INFO] - Successfully optimized the image - /var/www/u3052351/data/www/krepion.ru/wp-content/uploads/2025/04/image-1173.png.Файл был сжат с 309.66 KB до 114.95 KB, сохранив 62.88 процентов, с помощью WP-Optimize 
+[2025-04-10 21:25:11 : INFO] - Completed processing task with ID : 768, and type 'smush' 
+[2025-04-10 21:25:11 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-10 21:25:11 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-04-10 21:25:11 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-10 21:25:11 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-04-10 21:26:27 : INFO] - Re_Smush_It_Task with attachment ID : 382, autocreated on : April 10, 2025 09:26:27 
+[2025-04-10 21:31:33 : INFO] - Re_Smush_It_Task with attachment ID : 386, autocreated on : April 10, 2025 09:31:33 
+[2025-04-10 21:35:13 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-04-10 21:35:13 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-10 21:35:13 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-10 21:35:13 : INFO] - Processing task with ID : 773, and type 'smush' 
+[2025-04-10 21:35:13 : INFO] - Re_Smush_It_Task with attachment ID : 382, autocreated on : April 10, 2025 09:26:27 
+[2025-04-10 21:35:13 : INFO] - File: image-1174.png, Compression quality: 92 
+[2025-04-10 21:35:14 : INFO] - Backing up the original image - 2025/04/image-1174-updraft-pre-smush-original.png 
+[2025-04-10 21:35:16 : INFO] - Successfully optimized the image - /var/www/u3052351/data/www/krepion.ru/wp-content/uploads/2025/04/image-1174.png.Файл был сжат с 203.13 KB до 86.22 KB, сохранив 57.55 процентов, с помощью WP-Optimize 
+[2025-04-10 21:35:16 : INFO] - Completed processing task with ID : 773, and type 'smush' 
+[2025-04-10 21:35:16 : INFO] - Processing task with ID : 782, and type 'smush' 
+[2025-04-10 21:35:16 : INFO] - Re_Smush_It_Task with attachment ID : 386, autocreated on : April 10, 2025 09:31:33 
+[2025-04-10 21:35:16 : INFO] - File: Frame-1321314716.png, Compression quality: 92 
+[2025-04-10 21:35:17 : INFO] - Backing up the original image - 2025/04/Frame-1321314716-updraft-pre-smush-original.png 
+[2025-04-10 21:35:19 : INFO] - Successfully optimized the image - /var/www/u3052351/data/www/krepion.ru/wp-content/uploads/2025/04/Frame-1321314716.png.Файл был сжат с 87.85 KB до 31.53 KB, сохранив 64.11 процентов, с помощью WP-Optimize 
+[2025-04-10 21:35:19 : INFO] - Completed processing task with ID : 782, and type 'smush' 
+[2025-04-10 21:35:19 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-10 21:35:19 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-04-10 21:35:19 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-10 21:35:19 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-04-11 14:30:10 : INFO] - Re_Smush_It_Task with attachment ID : 406, autocreated on : April 11, 2025 02:30:10 
+[2025-04-11 14:35:10 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-04-11 14:35:10 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-11 14:35:10 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-11 14:35:10 : INFO] - Processing task with ID : 863, and type 'smush' 
+[2025-04-11 14:35:10 : INFO] - Re_Smush_It_Task with attachment ID : 406, autocreated on : April 11, 2025 02:30:10 
+[2025-04-11 14:35:10 : INFO] - File: probki-and-zaglushki.png, Compression quality: 92 
+[2025-04-11 14:35:11 : INFO] - Backing up the original image - 2025/04/probki-and-zaglushki-updraft-pre-smush-original.png 
+[2025-04-11 14:35:11 : INFO] - Successfully optimized the image - /var/www/u3052351/data/www/krepion.ru/wp-content/uploads/2025/04/probki-and-zaglushki.png.Файл был сжат с 22.20 KB до 8.12 KB, сохранив 63.42 процентов, с помощью WP-Optimize 
+[2025-04-11 14:35:11 : INFO] - Completed processing task with ID : 863, and type 'smush' 
+[2025-04-11 14:35:11 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-11 14:35:11 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-04-11 14:35:11 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-11 14:35:11 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-04-11 16:19:01 : INFO] - Re_Smush_It_Task with attachment ID : 408, autocreated on : April 11, 2025 04:19:01 
+[2025-04-11 16:24:10 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-04-11 16:24:10 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-11 16:24:10 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-11 16:24:10 : INFO] - Processing task with ID : 870, and type 'smush' 
+[2025-04-11 16:24:10 : INFO] - Re_Smush_It_Task with attachment ID : 408, autocreated on : April 11, 2025 04:19:01 
+[2025-04-11 16:24:10 : INFO] - File: image-1177.png, Compression quality: 92 
+[2025-04-11 16:24:11 : INFO] - Backing up the original image - 2025/04/image-1177-updraft-pre-smush-original.png 
+[2025-04-11 16:24:12 : INFO] - Successfully optimized the image - /var/www/u3052351/data/www/krepion.ru/wp-content/uploads/2025/04/image-1177.png.Файл был сжат с 250.54 KB до 112.96 KB, сохранив 54.91 процентов, с помощью WP-Optimize 
+[2025-04-11 16:24:12 : INFO] - Completed processing task with ID : 870, and type 'smush' 
+[2025-04-11 16:24:12 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-11 16:24:12 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-04-11 16:24:12 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-11 16:24:12 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-04-11 16:24:18 : INFO] - Re_Smush_It_Task with attachment ID : 414, autocreated on : April 11, 2025 04:24:18 
+[2025-04-11 16:49:36 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-04-11 16:49:36 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-11 16:49:36 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-11 16:49:36 : INFO] - Processing task with ID : 913, and type 'smush' 
+[2025-04-11 16:49:36 : INFO] - Re_Smush_It_Task with attachment ID : 414, autocreated on : April 11, 2025 04:24:18 
+[2025-04-11 16:49:36 : INFO] - File: image-1177-1.png, Compression quality: 92 
+[2025-04-11 16:49:36 : INFO] - Backing up the original image - 2025/04/image-1177-1-updraft-pre-smush-original.png 
+[2025-04-11 16:49:38 : INFO] - Successfully optimized the image - /var/www/u3052351/data/www/krepion.ru/wp-content/uploads/2025/04/image-1177-1.png.Файл был сжат с 250.54 KB до 112.96 KB, сохранив 54.91 процентов, с помощью WP-Optimize 
+[2025-04-11 16:49:38 : INFO] - Completed processing task with ID : 913, and type 'smush' 
+[2025-04-11 16:49:38 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-11 16:49:38 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-04-11 16:49:38 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-11 16:49:38 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-04-17 19:53:44 : INFO] - Re_Smush_It_Task with attachment ID : 430, autocreated on : April 17, 2025 07:53:44 
+[2025-04-17 19:54:04 : INFO] - Re_Smush_It_Task with attachment ID : 431, autocreated on : April 17, 2025 07:54:04 
+[2025-04-17 19:55:24 : INFO] - Re_Smush_It_Task with attachment ID : 432, autocreated on : April 17, 2025 07:55:24 
+[2025-04-17 19:58:52 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2025-04-17 19:58:52 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-17 19:58:52 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-17 19:58:52 : INFO] - Processing task with ID : 1040, and type 'smush' 
+[2025-04-17 19:58:52 : INFO] - Task with ID 1040 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2025-04-17 19:58:52 : INFO] - Processing task with ID : 1041, and type 'smush' 
+[2025-04-17 19:58:52 : INFO] - Task with ID 1041 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2025-04-17 19:58:52 : INFO] - Processing task with ID : 1042, and type 'smush' 
+[2025-04-17 19:58:52 : INFO] - Re_Smush_It_Task with attachment ID : 432, autocreated on : April 17, 2025 07:55:24 
+[2025-04-17 19:58:52 : INFO] - File: bolts-nuts-no-bg-preview-carve.png, Compression quality: 92 
+[2025-04-17 19:58:53 : INFO] - Backing up the original image - 2025/04/bolts-nuts-no-bg-preview-carve-updraft-pre-smush-original.png 
+[2025-04-17 19:58:54 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/bolts-nuts-no-bg-preview-carve.png.Файл был сжат с 36.74 KB до 13.12 KB, сохранив 64.29 процентов, с помощью WP-Optimize 
+[2025-04-17 19:58:54 : INFO] - Completed processing task with ID : 1042, and type 'smush' 
+[2025-04-17 19:58:54 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-17 19:58:54 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2025-04-17 19:58:54 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-17 19:58:54 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-04-17 20:00:24 : INFO] - Re_Smush_It_Task with attachment ID : 433, autocreated on : April 17, 2025 08:00:24 
+[2025-04-17 20:09:54 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-04-17 20:09:54 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-17 20:09:54 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-17 20:09:54 : INFO] - Processing task with ID : 1043, and type 'smush' 
+[2025-04-17 20:09:54 : INFO] - Re_Smush_It_Task with attachment ID : 433, autocreated on : April 17, 2025 08:00:24 
+[2025-04-17 20:09:54 : INFO] - File: catalog-nuts-e1744919883319-1.png, Compression quality: 92 
+[2025-04-17 20:09:55 : INFO] - Backing up the original image - 2025/04/catalog-nuts-e1744919883319-1-updraft-pre-smush-original.png 
+[2025-04-17 20:09:56 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/catalog-nuts-e1744919883319-1.png.Файл был сжат с 16.78 KB до 7.13 KB, сохранив 57.5 процентов, с помощью WP-Optimize 
+[2025-04-17 20:09:56 : INFO] - Completed processing task with ID : 1043, and type 'smush' 
+[2025-04-17 20:09:56 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-17 20:09:56 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-04-17 20:09:56 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-17 20:09:56 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-04-17 20:15:14 : INFO] - Re_Smush_It_Task with attachment ID : 434, autocreated on : April 17, 2025 08:15:14 
+[2025-04-17 20:17:26 : INFO] - Re_Smush_It_Task with attachment ID : 435, autocreated on : April 17, 2025 08:17:26 
+[2025-04-17 20:20:25 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-04-17 20:20:25 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-17 20:20:25 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-17 20:20:25 : INFO] - Processing task with ID : 1046, and type 'smush' 
+[2025-04-17 20:20:25 : INFO] - Re_Smush_It_Task with attachment ID : 434, autocreated on : April 17, 2025 08:15:14 
+[2025-04-17 20:20:25 : INFO] - File: catalog-group-image.png, Compression quality: 92 
+[2025-04-17 20:20:26 : INFO] - Backing up the original image - 2025/04/catalog-group-image-updraft-pre-smush-original.png 
+[2025-04-17 20:20:28 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/catalog-group-image.png.Файл был сжат с 23.53 KB до 8.21 KB, сохранив 65.12 процентов, с помощью WP-Optimize 
+[2025-04-17 20:20:28 : INFO] - Completed processing task with ID : 1046, and type 'smush' 
+[2025-04-17 20:20:28 : INFO] - Processing task with ID : 1048, and type 'smush' 
+[2025-04-17 20:20:28 : INFO] - Re_Smush_It_Task with attachment ID : 435, autocreated on : April 17, 2025 08:17:26 
+[2025-04-17 20:20:28 : INFO] - File: catalog-dowels.png, Compression quality: 92 
+[2025-04-17 20:20:29 : INFO] - Backing up the original image - 2025/04/catalog-dowels-updraft-pre-smush-original.png 
+[2025-04-17 20:20:29 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/catalog-dowels.png.Файл был сжат с 8.64 KB до 5.10 KB, сохранив 40.9 процентов, с помощью WP-Optimize 
+[2025-04-17 20:20:29 : INFO] - Completed processing task with ID : 1048, and type 'smush' 
+[2025-04-17 20:20:29 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-17 20:20:29 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-04-17 20:20:29 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-17 20:20:29 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-04-18 08:30:24 : INFO] - Re_Smush_It_Task with attachment ID : 440, autocreated on : April 18, 2025 08:30:24 
+[2025-04-18 08:32:12 : INFO] - Re_Smush_It_Task with attachment ID : 443, autocreated on : April 18, 2025 08:32:12 
+[2025-04-18 08:35:35 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-04-18 08:35:35 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-18 08:35:35 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-18 08:35:35 : INFO] - Processing task with ID : 1057, and type 'smush' 
+[2025-04-18 08:35:35 : INFO] - Re_Smush_It_Task with attachment ID : 440, autocreated on : April 18, 2025 08:30:24 
+[2025-04-18 08:35:35 : INFO] - File: payment-and-delivery-car.png, Compression quality: 92 
+[2025-04-18 08:35:37 : INFO] - Backing up the original image - 2025/04/payment-and-delivery-car-updraft-pre-smush-original.png 
+[2025-04-18 08:35:39 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/payment-and-delivery-car.png.Файл был сжат с 84.21 KB до 34.05 KB, сохранив 59.56 процентов, с помощью WP-Optimize 
+[2025-04-18 08:35:39 : INFO] - Completed processing task with ID : 1057, and type 'smush' 
+[2025-04-18 08:35:39 : INFO] - Processing task with ID : 1062, and type 'smush' 
+[2025-04-18 08:35:39 : INFO] - Re_Smush_It_Task with attachment ID : 443, autocreated on : April 18, 2025 08:32:12 
+[2025-04-18 08:35:39 : INFO] - File: payment-and-delivery-car-1.png, Compression quality: 92 
+[2025-04-18 08:35:40 : INFO] - Backing up the original image - 2025/04/payment-and-delivery-car-1-updraft-pre-smush-original.png 
+[2025-04-18 08:35:42 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/payment-and-delivery-car-1.png.Файл был сжат с 84.21 KB до 34.05 KB, сохранив 59.56 процентов, с помощью WP-Optimize 
+[2025-04-18 08:35:42 : INFO] - Completed processing task with ID : 1062, and type 'smush' 
+[2025-04-18 08:35:42 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-18 08:35:42 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-04-18 08:35:42 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-18 08:35:42 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-04-18 08:36:02 : INFO] - Re_Smush_It_Task with attachment ID : 446, autocreated on : April 18, 2025 08:36:02 
+[2025-04-18 08:46:14 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-04-18 08:46:14 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-18 08:46:14 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-18 08:46:14 : INFO] - Processing task with ID : 1067, and type 'smush' 
+[2025-04-18 08:46:14 : INFO] - Re_Smush_It_Task with attachment ID : 446, autocreated on : April 18, 2025 08:36:02 
+[2025-04-18 08:46:14 : INFO] - File: payment-and-delivery-car-2.png, Compression quality: 92 
+[2025-04-18 08:46:15 : INFO] - Backing up the original image - 2025/04/payment-and-delivery-car-2-updraft-pre-smush-original.png 
+[2025-04-18 08:46:17 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/payment-and-delivery-car-2.png.Файл был сжат с 84.21 KB до 34.05 KB, сохранив 59.56 процентов, с помощью WP-Optimize 
+[2025-04-18 08:46:17 : INFO] - Completed processing task with ID : 1067, and type 'smush' 
+[2025-04-18 08:46:17 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-18 08:46:17 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-04-18 08:46:17 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-18 08:46:17 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-04-18 08:52:16 : INFO] - Re_Smush_It_Task with attachment ID : 451, autocreated on : April 18, 2025 08:52:16 
+[2025-04-18 08:53:38 : INFO] - Re_Smush_It_Task with attachment ID : 453, autocreated on : April 18, 2025 08:53:38 
+[2025-04-18 08:56:18 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-04-18 08:56:18 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-18 08:56:18 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-18 08:56:18 : INFO] - Processing task with ID : 1080, and type 'smush' 
+[2025-04-18 08:56:18 : INFO] - Re_Smush_It_Task with attachment ID : 451, autocreated on : April 18, 2025 08:52:16 
+[2025-04-18 08:56:18 : INFO] - File: payment-and-delivery-car-3.png, Compression quality: 92 
+[2025-04-18 08:56:19 : INFO] - Backing up the original image - 2025/04/payment-and-delivery-car-3-updraft-pre-smush-original.png 
+[2025-04-18 08:56:21 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/payment-and-delivery-car-3.png.Файл был сжат с 84.21 KB до 34.05 KB, сохранив 59.56 процентов, с помощью WP-Optimize 
+[2025-04-18 08:56:21 : INFO] - Completed processing task with ID : 1080, and type 'smush' 
+[2025-04-18 08:56:21 : INFO] - Processing task with ID : 1081, and type 'smush' 
+[2025-04-18 08:56:21 : INFO] - Re_Smush_It_Task with attachment ID : 453, autocreated on : April 18, 2025 08:53:38 
+[2025-04-18 08:56:21 : INFO] - File: payment-and-delivery-car-4.png, Compression quality: 92 
+[2025-04-18 08:56:22 : INFO] - Backing up the original image - 2025/04/payment-and-delivery-car-4-updraft-pre-smush-original.png 
+[2025-04-18 08:56:24 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/payment-and-delivery-car-4.png.Файл был сжат с 84.21 KB до 34.05 KB, сохранив 59.56 процентов, с помощью WP-Optimize 
+[2025-04-18 08:56:24 : INFO] - Completed processing task with ID : 1081, and type 'smush' 
+[2025-04-18 08:56:24 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-18 08:56:24 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-04-18 08:56:24 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-18 08:56:24 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-04-22 07:47:42 : INFO] - Re_Smush_It_Task with attachment ID : 466, autocreated on : April 22, 2025 07:47:42 
+[2025-04-22 07:47:44 : INFO] - Re_Smush_It_Task with attachment ID : 468, autocreated on : April 22, 2025 07:47:44 
+[2025-04-22 07:47:45 : INFO] - Re_Smush_It_Task with attachment ID : 470, autocreated on : April 22, 2025 07:47:45 
+[2025-04-22 07:47:46 : INFO] - Re_Smush_It_Task with attachment ID : 472, autocreated on : April 22, 2025 07:47:46 
+[2025-04-22 07:47:46 : INFO] - Re_Smush_It_Task with attachment ID : 474, autocreated on : April 22, 2025 07:47:46 
+[2025-04-22 07:47:47 : INFO] - Re_Smush_It_Task with attachment ID : 476, autocreated on : April 22, 2025 07:47:47 
+[2025-04-22 07:47:48 : INFO] - Re_Smush_It_Task with attachment ID : 478, autocreated on : April 22, 2025 07:47:48 
+[2025-04-22 07:47:49 : INFO] - Re_Smush_It_Task with attachment ID : 480, autocreated on : April 22, 2025 07:47:49 
+[2025-04-22 07:47:50 : INFO] - Re_Smush_It_Task with attachment ID : 482, autocreated on : April 22, 2025 07:47:50 
+[2025-04-22 07:47:51 : INFO] - Re_Smush_It_Task with attachment ID : 484, autocreated on : April 22, 2025 07:47:51 
+[2025-04-22 07:47:52 : INFO] - Re_Smush_It_Task with attachment ID : 486, autocreated on : April 22, 2025 07:47:52 
+[2025-04-22 07:47:54 : INFO] - Re_Smush_It_Task with attachment ID : 488, autocreated on : April 22, 2025 07:47:54 
+[2025-04-22 07:47:55 : INFO] - Re_Smush_It_Task with attachment ID : 490, autocreated on : April 22, 2025 07:47:55 
+[2025-04-22 07:47:56 : INFO] - Re_Smush_It_Task with attachment ID : 492, autocreated on : April 22, 2025 07:47:56 
+[2025-04-22 07:47:57 : INFO] - Re_Smush_It_Task with attachment ID : 494, autocreated on : April 22, 2025 07:47:57 
+[2025-04-22 07:47:58 : INFO] - Re_Smush_It_Task with attachment ID : 496, autocreated on : April 22, 2025 07:47:58 
+[2025-04-22 07:47:59 : INFO] - Re_Smush_It_Task with attachment ID : 498, autocreated on : April 22, 2025 07:47:59 
+[2025-04-22 07:48:00 : INFO] - Re_Smush_It_Task with attachment ID : 500, autocreated on : April 22, 2025 07:48:00 
+[2025-04-22 07:48:01 : INFO] - Re_Smush_It_Task with attachment ID : 502, autocreated on : April 22, 2025 07:48:01 
+[2025-04-22 07:48:02 : INFO] - Re_Smush_It_Task with attachment ID : 504, autocreated on : April 22, 2025 07:48:02 
+[2025-04-22 07:48:06 : INFO] - Re_Smush_It_Task with attachment ID : 506, autocreated on : April 22, 2025 07:48:06 
+[2025-04-22 07:48:07 : INFO] - Re_Smush_It_Task with attachment ID : 508, autocreated on : April 22, 2025 07:48:07 
+[2025-04-22 07:48:08 : INFO] - Re_Smush_It_Task with attachment ID : 510, autocreated on : April 22, 2025 07:48:08 
+[2025-04-22 07:48:09 : INFO] - Re_Smush_It_Task with attachment ID : 512, autocreated on : April 22, 2025 07:48:09 
+[2025-04-22 07:48:10 : INFO] - Re_Smush_It_Task with attachment ID : 514, autocreated on : April 22, 2025 07:48:10 
+[2025-04-22 07:48:11 : INFO] - Re_Smush_It_Task with attachment ID : 516, autocreated on : April 22, 2025 07:48:11 
+[2025-04-22 07:48:12 : INFO] - Re_Smush_It_Task with attachment ID : 518, autocreated on : April 22, 2025 07:48:12 
+[2025-04-22 07:48:13 : INFO] - Re_Smush_It_Task with attachment ID : 520, autocreated on : April 22, 2025 07:48:13 
+[2025-04-22 07:48:14 : INFO] - Re_Smush_It_Task with attachment ID : 522, autocreated on : April 22, 2025 07:48:14 
+[2025-04-22 07:48:15 : INFO] - Re_Smush_It_Task with attachment ID : 524, autocreated on : April 22, 2025 07:48:15 
+[2025-04-22 07:48:16 : INFO] - Re_Smush_It_Task with attachment ID : 526, autocreated on : April 22, 2025 07:48:16 
+[2025-04-22 07:48:17 : INFO] - Re_Smush_It_Task with attachment ID : 528, autocreated on : April 22, 2025 07:48:17 
+[2025-04-22 07:48:18 : INFO] - Re_Smush_It_Task with attachment ID : 530, autocreated on : April 22, 2025 07:48:18 
+[2025-04-22 07:48:19 : INFO] - Re_Smush_It_Task with attachment ID : 532, autocreated on : April 22, 2025 07:48:19 
+[2025-04-22 07:48:20 : INFO] - Re_Smush_It_Task with attachment ID : 534, autocreated on : April 22, 2025 07:48:20 
+[2025-04-22 07:48:21 : INFO] - Re_Smush_It_Task with attachment ID : 536, autocreated on : April 22, 2025 07:48:21 
+[2025-04-22 07:48:22 : INFO] - Re_Smush_It_Task with attachment ID : 538, autocreated on : April 22, 2025 07:48:22 
+[2025-04-22 07:48:23 : INFO] - Re_Smush_It_Task with attachment ID : 540, autocreated on : April 22, 2025 07:48:23 
+[2025-04-22 07:48:24 : INFO] - Re_Smush_It_Task with attachment ID : 542, autocreated on : April 22, 2025 07:48:24 
+[2025-04-22 07:48:25 : INFO] - Re_Smush_It_Task with attachment ID : 544, autocreated on : April 22, 2025 07:48:25 
+[2025-04-22 07:48:29 : INFO] - Re_Smush_It_Task with attachment ID : 546, autocreated on : April 22, 2025 07:48:29 
+[2025-04-22 07:48:30 : INFO] - Re_Smush_It_Task with attachment ID : 548, autocreated on : April 22, 2025 07:48:30 
+[2025-04-22 07:48:31 : INFO] - Re_Smush_It_Task with attachment ID : 550, autocreated on : April 22, 2025 07:48:31 
+[2025-04-22 07:48:32 : INFO] - Re_Smush_It_Task with attachment ID : 552, autocreated on : April 22, 2025 07:48:32 
+[2025-04-22 07:48:33 : INFO] - Re_Smush_It_Task with attachment ID : 554, autocreated on : April 22, 2025 07:48:33 
+[2025-04-22 07:48:34 : INFO] - Re_Smush_It_Task with attachment ID : 556, autocreated on : April 22, 2025 07:48:34 
+[2025-04-22 07:48:35 : INFO] - Re_Smush_It_Task with attachment ID : 558, autocreated on : April 22, 2025 07:48:35 
+[2025-04-22 07:48:36 : INFO] - Re_Smush_It_Task with attachment ID : 560, autocreated on : April 22, 2025 07:48:36 
+[2025-04-22 07:48:37 : INFO] - Re_Smush_It_Task with attachment ID : 562, autocreated on : April 22, 2025 07:48:37 
+[2025-04-22 07:48:38 : INFO] - Re_Smush_It_Task with attachment ID : 564, autocreated on : April 22, 2025 07:48:38 
+[2025-04-22 07:48:39 : INFO] - Re_Smush_It_Task with attachment ID : 566, autocreated on : April 22, 2025 07:48:39 
+[2025-04-22 07:48:40 : INFO] - Re_Smush_It_Task with attachment ID : 568, autocreated on : April 22, 2025 07:48:40 
+[2025-04-22 07:48:41 : INFO] - Re_Smush_It_Task with attachment ID : 570, autocreated on : April 22, 2025 07:48:41 
+[2025-04-22 07:52:43 : INFO] - A total of 53 tasks of type smush found and will be processed in this iteration 
+[2025-04-22 07:52:43 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-22 07:52:43 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-22 07:52:43 : INFO] - Processing task with ID : 1122, and type 'smush' 
+[2025-04-22 07:52:43 : INFO] - Re_Smush_It_Task with attachment ID : 466, autocreated on : April 22, 2025 07:47:42 
+[2025-04-22 07:52:43 : INFO] - File: 313027c80b9721907c200cdf3d34dfce.jpg, Compression quality: 92 
+[2025-04-22 07:52:45 : INFO] - Backing up the original image - 2025/04/313027c80b9721907c200cdf3d34dfce-updraft-pre-smush-original.jpg 
+[2025-04-22 07:52:48 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/313027c80b9721907c200cdf3d34dfce.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:52:48 : INFO] - Completed processing task with ID : 1122, and type 'smush' 
+[2025-04-22 07:52:48 : INFO] - Processing task with ID : 1123, and type 'smush' 
+[2025-04-22 07:52:48 : INFO] - Re_Smush_It_Task with attachment ID : 468, autocreated on : April 22, 2025 07:47:44 
+[2025-04-22 07:52:48 : INFO] - File: 1b6079a6795917b78cb07c7deda0013f.jpg, Compression quality: 92 
+[2025-04-22 07:52:48 : INFO] - Backing up the original image - 2025/04/1b6079a6795917b78cb07c7deda0013f-updraft-pre-smush-original.jpg 
+[2025-04-22 07:52:50 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/1b6079a6795917b78cb07c7deda0013f.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:52:50 : INFO] - Completed processing task with ID : 1123, and type 'smush' 
+[2025-04-22 07:52:50 : INFO] - Processing task with ID : 1124, and type 'smush' 
+[2025-04-22 07:52:51 : INFO] - Re_Smush_It_Task with attachment ID : 470, autocreated on : April 22, 2025 07:47:45 
+[2025-04-22 07:52:51 : INFO] - File: 14282178c4c6c677b69a28d6cf50fc49.jpg, Compression quality: 92 
+[2025-04-22 07:52:51 : INFO] - Backing up the original image - 2025/04/14282178c4c6c677b69a28d6cf50fc49-updraft-pre-smush-original.jpg 
+[2025-04-22 07:52:53 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/14282178c4c6c677b69a28d6cf50fc49.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:52:53 : INFO] - Completed processing task with ID : 1124, and type 'smush' 
+[2025-04-22 07:52:53 : INFO] - Processing task with ID : 1125, and type 'smush' 
+[2025-04-22 07:52:53 : INFO] - Re_Smush_It_Task with attachment ID : 472, autocreated on : April 22, 2025 07:47:46 
+[2025-04-22 07:52:53 : INFO] - File: e741266dabd9ef10d0d3019d04889e91.jpg, Compression quality: 92 
+[2025-04-22 07:52:54 : INFO] - Backing up the original image - 2025/04/e741266dabd9ef10d0d3019d04889e91-updraft-pre-smush-original.jpg 
+[2025-04-22 07:52:56 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/e741266dabd9ef10d0d3019d04889e91.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:52:56 : INFO] - Completed processing task with ID : 1125, and type 'smush' 
+[2025-04-22 07:52:56 : INFO] - Processing task with ID : 1126, and type 'smush' 
+[2025-04-22 07:52:56 : INFO] - Re_Smush_It_Task with attachment ID : 474, autocreated on : April 22, 2025 07:47:46 
+[2025-04-22 07:52:56 : INFO] - File: d8a659db522ea74dcbd776c032438509.jpg, Compression quality: 92 
+[2025-04-22 07:52:57 : INFO] - Backing up the original image - 2025/04/d8a659db522ea74dcbd776c032438509-updraft-pre-smush-original.jpg 
+[2025-04-22 07:52:59 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/d8a659db522ea74dcbd776c032438509.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:52:59 : INFO] - Completed processing task with ID : 1126, and type 'smush' 
+[2025-04-22 07:52:59 : INFO] - Processing task with ID : 1127, and type 'smush' 
+[2025-04-22 07:52:59 : INFO] - Re_Smush_It_Task with attachment ID : 476, autocreated on : April 22, 2025 07:47:47 
+[2025-04-22 07:52:59 : INFO] - File: bd79dff2314aee95b5d3ae1c90e033c6.jpg, Compression quality: 92 
+[2025-04-22 07:53:00 : INFO] - Backing up the original image - 2025/04/bd79dff2314aee95b5d3ae1c90e033c6-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:02 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/bd79dff2314aee95b5d3ae1c90e033c6.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:02 : INFO] - Completed processing task with ID : 1127, and type 'smush' 
+[2025-04-22 07:53:02 : INFO] - Processing task with ID : 1128, and type 'smush' 
+[2025-04-22 07:53:02 : INFO] - Re_Smush_It_Task with attachment ID : 478, autocreated on : April 22, 2025 07:47:48 
+[2025-04-22 07:53:02 : INFO] - File: a1764806ee872a3f9220031db0382035.jpg, Compression quality: 92 
+[2025-04-22 07:53:02 : INFO] - Backing up the original image - 2025/04/a1764806ee872a3f9220031db0382035-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:05 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/a1764806ee872a3f9220031db0382035.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:05 : INFO] - Completed processing task with ID : 1128, and type 'smush' 
+[2025-04-22 07:53:05 : INFO] - Processing task with ID : 1129, and type 'smush' 
+[2025-04-22 07:53:05 : INFO] - Re_Smush_It_Task with attachment ID : 480, autocreated on : April 22, 2025 07:47:49 
+[2025-04-22 07:53:05 : INFO] - File: 8076a414098d34a10972f4b60c435898.jpg, Compression quality: 92 
+[2025-04-22 07:53:05 : INFO] - Backing up the original image - 2025/04/8076a414098d34a10972f4b60c435898-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:07 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/8076a414098d34a10972f4b60c435898.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:07 : INFO] - Completed processing task with ID : 1129, and type 'smush' 
+[2025-04-22 07:53:07 : INFO] - Processing task with ID : 1130, and type 'smush' 
+[2025-04-22 07:53:07 : INFO] - Re_Smush_It_Task with attachment ID : 482, autocreated on : April 22, 2025 07:47:50 
+[2025-04-22 07:53:07 : INFO] - File: ac6f77a2bf44e29598d93e6929d7354f.jpg, Compression quality: 92 
+[2025-04-22 07:53:08 : INFO] - Backing up the original image - 2025/04/ac6f77a2bf44e29598d93e6929d7354f-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:10 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/ac6f77a2bf44e29598d93e6929d7354f.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:10 : INFO] - Completed processing task with ID : 1130, and type 'smush' 
+[2025-04-22 07:53:10 : INFO] - Processing task with ID : 1131, and type 'smush' 
+[2025-04-22 07:53:10 : INFO] - Re_Smush_It_Task with attachment ID : 484, autocreated on : April 22, 2025 07:47:51 
+[2025-04-22 07:53:10 : INFO] - File: e1196c21d9f6bac6ad12fc2ec2a8b750.jpg, Compression quality: 92 
+[2025-04-22 07:53:11 : INFO] - Backing up the original image - 2025/04/e1196c21d9f6bac6ad12fc2ec2a8b750-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:13 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/e1196c21d9f6bac6ad12fc2ec2a8b750.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:13 : INFO] - Completed processing task with ID : 1131, and type 'smush' 
+[2025-04-22 07:53:13 : INFO] - Processing task with ID : 1132, and type 'smush' 
+[2025-04-22 07:53:13 : INFO] - Re_Smush_It_Task with attachment ID : 486, autocreated on : April 22, 2025 07:47:52 
+[2025-04-22 07:53:13 : INFO] - File: 40a681cbdf4e25c277d665e800ceb458.jpg, Compression quality: 92 
+[2025-04-22 07:53:13 : INFO] - Backing up the original image - 2025/04/40a681cbdf4e25c277d665e800ceb458-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:16 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/40a681cbdf4e25c277d665e800ceb458.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:16 : INFO] - Completed processing task with ID : 1132, and type 'smush' 
+[2025-04-22 07:53:16 : INFO] - Processing task with ID : 1133, and type 'smush' 
+[2025-04-22 07:53:16 : INFO] - Re_Smush_It_Task with attachment ID : 488, autocreated on : April 22, 2025 07:47:54 
+[2025-04-22 07:53:16 : INFO] - File: 4e6e92138a11dd2e44a20bb5d3b70b30.jpg, Compression quality: 92 
+[2025-04-22 07:53:16 : INFO] - Backing up the original image - 2025/04/4e6e92138a11dd2e44a20bb5d3b70b30-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:18 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/4e6e92138a11dd2e44a20bb5d3b70b30.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:18 : INFO] - Completed processing task with ID : 1133, and type 'smush' 
+[2025-04-22 07:53:18 : INFO] - Processing task with ID : 1134, and type 'smush' 
+[2025-04-22 07:53:18 : INFO] - Re_Smush_It_Task with attachment ID : 490, autocreated on : April 22, 2025 07:47:55 
+[2025-04-22 07:53:18 : INFO] - File: 9c9f36acf49284e1fa8dce893f30a4b1.jpg, Compression quality: 92 
+[2025-04-22 07:53:19 : INFO] - Backing up the original image - 2025/04/9c9f36acf49284e1fa8dce893f30a4b1-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:21 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/9c9f36acf49284e1fa8dce893f30a4b1.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:21 : INFO] - Completed processing task with ID : 1134, and type 'smush' 
+[2025-04-22 07:53:21 : INFO] - Processing task with ID : 1135, and type 'smush' 
+[2025-04-22 07:53:21 : INFO] - Re_Smush_It_Task with attachment ID : 492, autocreated on : April 22, 2025 07:47:56 
+[2025-04-22 07:53:21 : INFO] - File: 3e5aaed436460ee36a659037992204c0.jpg, Compression quality: 92 
+[2025-04-22 07:53:22 : INFO] - Backing up the original image - 2025/04/3e5aaed436460ee36a659037992204c0-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:24 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/3e5aaed436460ee36a659037992204c0.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:24 : INFO] - Completed processing task with ID : 1135, and type 'smush' 
+[2025-04-22 07:53:24 : INFO] - Processing task with ID : 1136, and type 'smush' 
+[2025-04-22 07:53:24 : INFO] - Re_Smush_It_Task with attachment ID : 494, autocreated on : April 22, 2025 07:47:57 
+[2025-04-22 07:53:24 : INFO] - File: 50c81fbde2ef1e465a1d40350d47108d.jpg, Compression quality: 92 
+[2025-04-22 07:53:24 : INFO] - Backing up the original image - 2025/04/50c81fbde2ef1e465a1d40350d47108d-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:27 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/50c81fbde2ef1e465a1d40350d47108d.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:27 : INFO] - Completed processing task with ID : 1136, and type 'smush' 
+[2025-04-22 07:53:27 : INFO] - Processing task with ID : 1137, and type 'smush' 
+[2025-04-22 07:53:27 : INFO] - Re_Smush_It_Task with attachment ID : 496, autocreated on : April 22, 2025 07:47:58 
+[2025-04-22 07:53:27 : INFO] - File: df737c68af5febb0d5290be9e3d3afd4.jpg, Compression quality: 92 
+[2025-04-22 07:53:27 : INFO] - Backing up the original image - 2025/04/df737c68af5febb0d5290be9e3d3afd4-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:29 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/df737c68af5febb0d5290be9e3d3afd4.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:29 : INFO] - Completed processing task with ID : 1137, and type 'smush' 
+[2025-04-22 07:53:29 : INFO] - Processing task with ID : 1138, and type 'smush' 
+[2025-04-22 07:53:29 : INFO] - Re_Smush_It_Task with attachment ID : 498, autocreated on : April 22, 2025 07:47:59 
+[2025-04-22 07:53:29 : INFO] - File: 88dbb49685eff482d07e0882aeae71d9.jpg, Compression quality: 92 
+[2025-04-22 07:53:30 : INFO] - Backing up the original image - 2025/04/88dbb49685eff482d07e0882aeae71d9-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:32 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/88dbb49685eff482d07e0882aeae71d9.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:32 : INFO] - Completed processing task with ID : 1138, and type 'smush' 
+[2025-04-22 07:53:32 : INFO] - Processing task with ID : 1139, and type 'smush' 
+[2025-04-22 07:53:32 : INFO] - Re_Smush_It_Task with attachment ID : 500, autocreated on : April 22, 2025 07:48:00 
+[2025-04-22 07:53:32 : INFO] - File: c6f3f0c359790ec19d383b7d0b0fab63.jpg, Compression quality: 92 
+[2025-04-22 07:53:32 : INFO] - Backing up the original image - 2025/04/c6f3f0c359790ec19d383b7d0b0fab63-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:35 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/c6f3f0c359790ec19d383b7d0b0fab63.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:35 : INFO] - Completed processing task with ID : 1139, and type 'smush' 
+[2025-04-22 07:53:35 : INFO] - Processing task with ID : 1140, and type 'smush' 
+[2025-04-22 07:53:35 : INFO] - Re_Smush_It_Task with attachment ID : 502, autocreated on : April 22, 2025 07:48:01 
+[2025-04-22 07:53:35 : INFO] - File: 53d9ac3af53bb4437e289afe53fd084b.jpg, Compression quality: 92 
+[2025-04-22 07:53:35 : INFO] - Backing up the original image - 2025/04/53d9ac3af53bb4437e289afe53fd084b-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:38 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/53d9ac3af53bb4437e289afe53fd084b.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:38 : INFO] - Completed processing task with ID : 1140, and type 'smush' 
+[2025-04-22 07:53:38 : INFO] - Processing task with ID : 1141, and type 'smush' 
+[2025-04-22 07:53:38 : INFO] - Re_Smush_It_Task with attachment ID : 504, autocreated on : April 22, 2025 07:48:02 
+[2025-04-22 07:53:38 : INFO] - File: 0312da9a522e8c5d938d95a1d8dccfaf.jpg, Compression quality: 92 
+[2025-04-22 07:53:38 : INFO] - Backing up the original image - 2025/04/0312da9a522e8c5d938d95a1d8dccfaf-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:40 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/0312da9a522e8c5d938d95a1d8dccfaf.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:40 : INFO] - Completed processing task with ID : 1141, and type 'smush' 
+[2025-04-22 07:53:40 : INFO] - Processing task with ID : 1165, and type 'smush' 
+[2025-04-22 07:53:40 : INFO] - Re_Smush_It_Task with attachment ID : 506, autocreated on : April 22, 2025 07:48:06 
+[2025-04-22 07:53:40 : INFO] - File: 95c69775774881627228474c718447ce.jpg, Compression quality: 92 
+[2025-04-22 07:53:41 : INFO] - Backing up the original image - 2025/04/95c69775774881627228474c718447ce-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:43 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/95c69775774881627228474c718447ce.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:43 : INFO] - Completed processing task with ID : 1165, and type 'smush' 
+[2025-04-22 07:53:43 : INFO] - Processing task with ID : 1166, and type 'smush' 
+[2025-04-22 07:53:43 : INFO] - Re_Smush_It_Task with attachment ID : 508, autocreated on : April 22, 2025 07:48:07 
+[2025-04-22 07:53:43 : INFO] - File: eee03ea3207bb5a53b370d12b5683bc8.jpg, Compression quality: 92 
+[2025-04-22 07:53:44 : INFO] - Backing up the original image - 2025/04/eee03ea3207bb5a53b370d12b5683bc8-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:46 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/eee03ea3207bb5a53b370d12b5683bc8.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:46 : INFO] - Completed processing task with ID : 1166, and type 'smush' 
+[2025-04-22 07:53:46 : INFO] - Processing task with ID : 1167, and type 'smush' 
+[2025-04-22 07:53:46 : INFO] - Re_Smush_It_Task with attachment ID : 510, autocreated on : April 22, 2025 07:48:08 
+[2025-04-22 07:53:46 : INFO] - File: 2ece076311307263b2bf9421e91b1007.jpg, Compression quality: 92 
+[2025-04-22 07:53:46 : INFO] - Backing up the original image - 2025/04/2ece076311307263b2bf9421e91b1007-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:49 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/2ece076311307263b2bf9421e91b1007.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:49 : INFO] - Completed processing task with ID : 1167, and type 'smush' 
+[2025-04-22 07:53:49 : INFO] - Processing task with ID : 1168, and type 'smush' 
+[2025-04-22 07:53:49 : INFO] - Re_Smush_It_Task with attachment ID : 512, autocreated on : April 22, 2025 07:48:09 
+[2025-04-22 07:53:49 : INFO] - File: d2cc650e360069786f94ab4ed7cea92b.jpg, Compression quality: 92 
+[2025-04-22 07:53:49 : INFO] - Backing up the original image - 2025/04/d2cc650e360069786f94ab4ed7cea92b-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:52 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/d2cc650e360069786f94ab4ed7cea92b.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:52 : INFO] - Completed processing task with ID : 1168, and type 'smush' 
+[2025-04-22 07:53:52 : INFO] - Processing task with ID : 1169, and type 'smush' 
+[2025-04-22 07:53:52 : INFO] - Re_Smush_It_Task with attachment ID : 514, autocreated on : April 22, 2025 07:48:10 
+[2025-04-22 07:53:52 : INFO] - File: ae1608cc86c59fa44ecd257dc604b947.jpg, Compression quality: 92 
+[2025-04-22 07:53:52 : INFO] - Backing up the original image - 2025/04/ae1608cc86c59fa44ecd257dc604b947-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:54 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/ae1608cc86c59fa44ecd257dc604b947.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:54 : INFO] - Completed processing task with ID : 1169, and type 'smush' 
+[2025-04-22 07:53:54 : INFO] - Processing task with ID : 1170, and type 'smush' 
+[2025-04-22 07:53:54 : INFO] - Re_Smush_It_Task with attachment ID : 516, autocreated on : April 22, 2025 07:48:11 
+[2025-04-22 07:53:54 : INFO] - File: 6f1b50d261488e8826f630aa7fb6a9e7.jpg, Compression quality: 92 
+[2025-04-22 07:53:55 : INFO] - Backing up the original image - 2025/04/6f1b50d261488e8826f630aa7fb6a9e7-updraft-pre-smush-original.jpg 
+[2025-04-22 07:53:57 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/6f1b50d261488e8826f630aa7fb6a9e7.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:53:57 : INFO] - Completed processing task with ID : 1170, and type 'smush' 
+[2025-04-22 07:53:57 : INFO] - Processing task with ID : 1171, and type 'smush' 
+[2025-04-22 07:53:57 : INFO] - Re_Smush_It_Task with attachment ID : 518, autocreated on : April 22, 2025 07:48:12 
+[2025-04-22 07:53:57 : INFO] - File: 5fb19172845cd1188bcc11d810a93665.jpg, Compression quality: 92 
+[2025-04-22 07:53:58 : INFO] - Backing up the original image - 2025/04/5fb19172845cd1188bcc11d810a93665-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:00 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/5fb19172845cd1188bcc11d810a93665.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:00 : INFO] - Completed processing task with ID : 1171, and type 'smush' 
+[2025-04-22 07:54:00 : INFO] - Processing task with ID : 1172, and type 'smush' 
+[2025-04-22 07:54:00 : INFO] - Re_Smush_It_Task with attachment ID : 520, autocreated on : April 22, 2025 07:48:13 
+[2025-04-22 07:54:00 : INFO] - File: b58b10386809b33279e09fed5bddb0e0.jpg, Compression quality: 92 
+[2025-04-22 07:54:01 : INFO] - Backing up the original image - 2025/04/b58b10386809b33279e09fed5bddb0e0-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:03 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/b58b10386809b33279e09fed5bddb0e0.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:03 : INFO] - Completed processing task with ID : 1172, and type 'smush' 
+[2025-04-22 07:54:03 : INFO] - Processing task with ID : 1173, and type 'smush' 
+[2025-04-22 07:54:03 : INFO] - Re_Smush_It_Task with attachment ID : 522, autocreated on : April 22, 2025 07:48:14 
+[2025-04-22 07:54:03 : INFO] - File: e43645c1fc60517a87b624023a9c890b.jpg, Compression quality: 92 
+[2025-04-22 07:54:04 : INFO] - Backing up the original image - 2025/04/e43645c1fc60517a87b624023a9c890b-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:06 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/e43645c1fc60517a87b624023a9c890b.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:06 : INFO] - Completed processing task with ID : 1173, and type 'smush' 
+[2025-04-22 07:54:06 : INFO] - Processing task with ID : 1174, and type 'smush' 
+[2025-04-22 07:54:06 : INFO] - Re_Smush_It_Task with attachment ID : 524, autocreated on : April 22, 2025 07:48:15 
+[2025-04-22 07:54:06 : INFO] - File: 0f41fc91e25fd503a2759f46d0eb68c4.jpg, Compression quality: 92 
+[2025-04-22 07:54:07 : INFO] - Backing up the original image - 2025/04/0f41fc91e25fd503a2759f46d0eb68c4-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:09 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/0f41fc91e25fd503a2759f46d0eb68c4.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:09 : INFO] - Completed processing task with ID : 1174, and type 'smush' 
+[2025-04-22 07:54:09 : INFO] - Processing task with ID : 1175, and type 'smush' 
+[2025-04-22 07:54:09 : INFO] - Re_Smush_It_Task with attachment ID : 526, autocreated on : April 22, 2025 07:48:16 
+[2025-04-22 07:54:09 : INFO] - File: 9c2a52c27ebb329621ef8a0c0bb4d272.jpg, Compression quality: 92 
+[2025-04-22 07:54:09 : INFO] - Backing up the original image - 2025/04/9c2a52c27ebb329621ef8a0c0bb4d272-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:12 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/9c2a52c27ebb329621ef8a0c0bb4d272.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:12 : INFO] - Completed processing task with ID : 1175, and type 'smush' 
+[2025-04-22 07:54:12 : INFO] - Processing task with ID : 1176, and type 'smush' 
+[2025-04-22 07:54:12 : INFO] - Re_Smush_It_Task with attachment ID : 528, autocreated on : April 22, 2025 07:48:17 
+[2025-04-22 07:54:12 : INFO] - File: db4efaf0e30f03a48a1c3d32f0748b69.jpg, Compression quality: 92 
+[2025-04-22 07:54:12 : INFO] - Backing up the original image - 2025/04/db4efaf0e30f03a48a1c3d32f0748b69-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:14 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/db4efaf0e30f03a48a1c3d32f0748b69.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:14 : INFO] - Completed processing task with ID : 1176, and type 'smush' 
+[2025-04-22 07:54:14 : INFO] - Processing task with ID : 1177, and type 'smush' 
+[2025-04-22 07:54:15 : INFO] - Re_Smush_It_Task with attachment ID : 530, autocreated on : April 22, 2025 07:48:18 
+[2025-04-22 07:54:15 : INFO] - File: d8e783fa16b88cf5ee6bcd382fe0bc3c.jpg, Compression quality: 92 
+[2025-04-22 07:54:15 : INFO] - Backing up the original image - 2025/04/d8e783fa16b88cf5ee6bcd382fe0bc3c-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:17 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/d8e783fa16b88cf5ee6bcd382fe0bc3c.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:17 : INFO] - Completed processing task with ID : 1177, and type 'smush' 
+[2025-04-22 07:54:17 : INFO] - Processing task with ID : 1178, and type 'smush' 
+[2025-04-22 07:54:17 : INFO] - Re_Smush_It_Task with attachment ID : 532, autocreated on : April 22, 2025 07:48:19 
+[2025-04-22 07:54:17 : INFO] - File: fc2a2d4e9ca4f0af4906835231ef001f.jpg, Compression quality: 92 
+[2025-04-22 07:54:18 : INFO] - Backing up the original image - 2025/04/fc2a2d4e9ca4f0af4906835231ef001f-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:20 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/fc2a2d4e9ca4f0af4906835231ef001f.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:20 : INFO] - Completed processing task with ID : 1178, and type 'smush' 
+[2025-04-22 07:54:20 : INFO] - Processing task with ID : 1179, and type 'smush' 
+[2025-04-22 07:54:20 : INFO] - Re_Smush_It_Task with attachment ID : 534, autocreated on : April 22, 2025 07:48:20 
+[2025-04-22 07:54:20 : INFO] - File: df3819189a3f271fa83c1cc32aa159af.jpg, Compression quality: 92 
+[2025-04-22 07:54:21 : INFO] - Backing up the original image - 2025/04/df3819189a3f271fa83c1cc32aa159af-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:23 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/df3819189a3f271fa83c1cc32aa159af.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:23 : INFO] - Completed processing task with ID : 1179, and type 'smush' 
+[2025-04-22 07:54:23 : INFO] - Processing task with ID : 1180, and type 'smush' 
+[2025-04-22 07:54:23 : INFO] - Re_Smush_It_Task with attachment ID : 536, autocreated on : April 22, 2025 07:48:21 
+[2025-04-22 07:54:23 : INFO] - File: b8802e165b1cba7f0e6e2074efdf3787.jpg, Compression quality: 92 
+[2025-04-22 07:54:24 : INFO] - Backing up the original image - 2025/04/b8802e165b1cba7f0e6e2074efdf3787-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:26 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/b8802e165b1cba7f0e6e2074efdf3787.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:26 : INFO] - Completed processing task with ID : 1180, and type 'smush' 
+[2025-04-22 07:54:26 : INFO] - Processing task with ID : 1181, and type 'smush' 
+[2025-04-22 07:54:26 : INFO] - Re_Smush_It_Task with attachment ID : 538, autocreated on : April 22, 2025 07:48:22 
+[2025-04-22 07:54:26 : INFO] - File: b3e2bfbebd7cea02d70ab7a77747f11a.jpg, Compression quality: 92 
+[2025-04-22 07:54:26 : INFO] - Backing up the original image - 2025/04/b3e2bfbebd7cea02d70ab7a77747f11a-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:29 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/b3e2bfbebd7cea02d70ab7a77747f11a.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:29 : INFO] - Completed processing task with ID : 1181, and type 'smush' 
+[2025-04-22 07:54:29 : INFO] - Processing task with ID : 1182, and type 'smush' 
+[2025-04-22 07:54:29 : INFO] - Re_Smush_It_Task with attachment ID : 540, autocreated on : April 22, 2025 07:48:23 
+[2025-04-22 07:54:29 : INFO] - File: af8272195b5b43c89fb150b964f31d63.jpg, Compression quality: 92 
+[2025-04-22 07:54:29 : INFO] - Backing up the original image - 2025/04/af8272195b5b43c89fb150b964f31d63-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:32 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/af8272195b5b43c89fb150b964f31d63.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:32 : INFO] - Completed processing task with ID : 1182, and type 'smush' 
+[2025-04-22 07:54:32 : INFO] - Processing task with ID : 1183, and type 'smush' 
+[2025-04-22 07:54:32 : INFO] - Re_Smush_It_Task with attachment ID : 542, autocreated on : April 22, 2025 07:48:24 
+[2025-04-22 07:54:32 : INFO] - File: 69cfa3a59f0d6a45ffc62281b7aeb1d4.jpg, Compression quality: 92 
+[2025-04-22 07:54:32 : INFO] - Backing up the original image - 2025/04/69cfa3a59f0d6a45ffc62281b7aeb1d4-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:34 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/69cfa3a59f0d6a45ffc62281b7aeb1d4.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:34 : INFO] - Completed processing task with ID : 1183, and type 'smush' 
+[2025-04-22 07:54:34 : INFO] - Processing task with ID : 1184, and type 'smush' 
+[2025-04-22 07:54:34 : INFO] - Re_Smush_It_Task with attachment ID : 544, autocreated on : April 22, 2025 07:48:25 
+[2025-04-22 07:54:34 : INFO] - File: a2d7d1a3bc3ef57804e95f0d69963d68.jpg, Compression quality: 92 
+[2025-04-22 07:54:35 : INFO] - Backing up the original image - 2025/04/a2d7d1a3bc3ef57804e95f0d69963d68-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:37 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/a2d7d1a3bc3ef57804e95f0d69963d68.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:37 : INFO] - Completed processing task with ID : 1184, and type 'smush' 
+[2025-04-22 07:54:37 : INFO] - Processing task with ID : 1208, and type 'smush' 
+[2025-04-22 07:54:37 : INFO] - Re_Smush_It_Task with attachment ID : 546, autocreated on : April 22, 2025 07:48:29 
+[2025-04-22 07:54:37 : INFO] - File: 1dfad088acd8a47199772491930a9c85.jpg, Compression quality: 92 
+[2025-04-22 07:54:38 : INFO] - Backing up the original image - 2025/04/1dfad088acd8a47199772491930a9c85-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:40 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/1dfad088acd8a47199772491930a9c85.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:40 : INFO] - Completed processing task with ID : 1208, and type 'smush' 
+[2025-04-22 07:54:40 : INFO] - Processing task with ID : 1209, and type 'smush' 
+[2025-04-22 07:54:40 : INFO] - Re_Smush_It_Task with attachment ID : 548, autocreated on : April 22, 2025 07:48:30 
+[2025-04-22 07:54:40 : INFO] - File: b476534176d9f4cae11affe15c8e785f.jpg, Compression quality: 92 
+[2025-04-22 07:54:41 : INFO] - Backing up the original image - 2025/04/b476534176d9f4cae11affe15c8e785f-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:43 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/b476534176d9f4cae11affe15c8e785f.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:43 : INFO] - Completed processing task with ID : 1209, and type 'smush' 
+[2025-04-22 07:54:43 : INFO] - Processing task with ID : 1210, and type 'smush' 
+[2025-04-22 07:54:43 : INFO] - Re_Smush_It_Task with attachment ID : 550, autocreated on : April 22, 2025 07:48:31 
+[2025-04-22 07:54:43 : INFO] - File: 25e7c79002de123421c7d4304ef69181.jpg, Compression quality: 92 
+[2025-04-22 07:54:43 : INFO] - Backing up the original image - 2025/04/25e7c79002de123421c7d4304ef69181-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:46 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/25e7c79002de123421c7d4304ef69181.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:46 : INFO] - Completed processing task with ID : 1210, and type 'smush' 
+[2025-04-22 07:54:46 : INFO] - Processing task with ID : 1211, and type 'smush' 
+[2025-04-22 07:54:46 : INFO] - Re_Smush_It_Task with attachment ID : 552, autocreated on : April 22, 2025 07:48:32 
+[2025-04-22 07:54:46 : INFO] - File: 707b13757874b3afe0d2b8e7cd375e18.jpg, Compression quality: 92 
+[2025-04-22 07:54:46 : INFO] - Backing up the original image - 2025/04/707b13757874b3afe0d2b8e7cd375e18-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:48 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/707b13757874b3afe0d2b8e7cd375e18.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:48 : INFO] - Completed processing task with ID : 1211, and type 'smush' 
+[2025-04-22 07:54:48 : INFO] - Processing task with ID : 1212, and type 'smush' 
+[2025-04-22 07:54:49 : INFO] - Re_Smush_It_Task with attachment ID : 554, autocreated on : April 22, 2025 07:48:33 
+[2025-04-22 07:54:49 : INFO] - File: 656ea4a82ac46ba6b948664cbcd8cce6.jpg, Compression quality: 92 
+[2025-04-22 07:54:49 : INFO] - Backing up the original image - 2025/04/656ea4a82ac46ba6b948664cbcd8cce6-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:51 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/656ea4a82ac46ba6b948664cbcd8cce6.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:51 : INFO] - Completed processing task with ID : 1212, and type 'smush' 
+[2025-04-22 07:54:51 : INFO] - Processing task with ID : 1213, and type 'smush' 
+[2025-04-22 07:54:51 : INFO] - Re_Smush_It_Task with attachment ID : 556, autocreated on : April 22, 2025 07:48:34 
+[2025-04-22 07:54:51 : INFO] - File: c3a79756791c24ad85043940632543c5.jpg, Compression quality: 92 
+[2025-04-22 07:54:53 : INFO] - Backing up the original image - 2025/04/c3a79756791c24ad85043940632543c5-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:55 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/c3a79756791c24ad85043940632543c5.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:55 : INFO] - Completed processing task with ID : 1213, and type 'smush' 
+[2025-04-22 07:54:55 : INFO] - Processing task with ID : 1214, and type 'smush' 
+[2025-04-22 07:54:55 : INFO] - Re_Smush_It_Task with attachment ID : 558, autocreated on : April 22, 2025 07:48:35 
+[2025-04-22 07:54:55 : INFO] - File: 2a10c962e05f6508b13cc70672db7a20.jpg, Compression quality: 92 
+[2025-04-22 07:54:56 : INFO] - Backing up the original image - 2025/04/2a10c962e05f6508b13cc70672db7a20-updraft-pre-smush-original.jpg 
+[2025-04-22 07:54:58 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/2a10c962e05f6508b13cc70672db7a20.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:54:58 : INFO] - Completed processing task with ID : 1214, and type 'smush' 
+[2025-04-22 07:54:58 : INFO] - Processing task with ID : 1215, and type 'smush' 
+[2025-04-22 07:54:58 : INFO] - Re_Smush_It_Task with attachment ID : 560, autocreated on : April 22, 2025 07:48:36 
+[2025-04-22 07:54:58 : INFO] - File: e393ac8021d8fe572939f39494608bba.jpg, Compression quality: 92 
+[2025-04-22 07:54:59 : INFO] - Backing up the original image - 2025/04/e393ac8021d8fe572939f39494608bba-updraft-pre-smush-original.jpg 
+[2025-04-22 07:55:01 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/e393ac8021d8fe572939f39494608bba.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:55:01 : INFO] - Completed processing task with ID : 1215, and type 'smush' 
+[2025-04-22 07:55:01 : INFO] - Processing task with ID : 1216, and type 'smush' 
+[2025-04-22 07:55:01 : INFO] - Re_Smush_It_Task with attachment ID : 562, autocreated on : April 22, 2025 07:48:37 
+[2025-04-22 07:55:01 : INFO] - File: d6707a25d15d80e7a4f81d3a60dc0591.jpg, Compression quality: 92 
+[2025-04-22 07:55:02 : INFO] - Backing up the original image - 2025/04/d6707a25d15d80e7a4f81d3a60dc0591-updraft-pre-smush-original.jpg 
+[2025-04-22 07:55:04 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/d6707a25d15d80e7a4f81d3a60dc0591.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:55:04 : INFO] - Completed processing task with ID : 1216, and type 'smush' 
+[2025-04-22 07:55:04 : INFO] - Processing task with ID : 1217, and type 'smush' 
+[2025-04-22 07:55:04 : INFO] - Re_Smush_It_Task with attachment ID : 564, autocreated on : April 22, 2025 07:48:38 
+[2025-04-22 07:55:04 : INFO] - File: 90ed72fd12e7e019c3b8e6534711c377.jpg, Compression quality: 92 
+[2025-04-22 07:55:04 : INFO] - Backing up the original image - 2025/04/90ed72fd12e7e019c3b8e6534711c377-updraft-pre-smush-original.jpg 
+[2025-04-22 07:55:06 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/90ed72fd12e7e019c3b8e6534711c377.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:55:06 : INFO] - Completed processing task with ID : 1217, and type 'smush' 
+[2025-04-22 07:55:06 : INFO] - Processing task with ID : 1218, and type 'smush' 
+[2025-04-22 07:55:06 : INFO] - Re_Smush_It_Task with attachment ID : 566, autocreated on : April 22, 2025 07:48:39 
+[2025-04-22 07:55:06 : INFO] - File: ce9100055afe7cbf627913d2e358c8e6.jpg, Compression quality: 92 
+[2025-04-22 07:55:07 : INFO] - Backing up the original image - 2025/04/ce9100055afe7cbf627913d2e358c8e6-updraft-pre-smush-original.jpg 
+[2025-04-22 07:55:09 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/ce9100055afe7cbf627913d2e358c8e6.jpg.Файл был сжат с 7.63 KB до 7.63 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:55:09 : INFO] - Completed processing task with ID : 1218, and type 'smush' 
+[2025-04-22 07:55:09 : INFO] - Processing task with ID : 1219, and type 'smush' 
+[2025-04-22 07:55:09 : INFO] - Re_Smush_It_Task with attachment ID : 568, autocreated on : April 22, 2025 07:48:40 
+[2025-04-22 07:55:09 : INFO] - File: 83e98562c72d83cfbbee2b7e97987f01.jpg, Compression quality: 92 
+[2025-04-22 07:55:09 : INFO] - Backing up the original image - 2025/04/83e98562c72d83cfbbee2b7e97987f01-updraft-pre-smush-original.jpg 
+[2025-04-22 07:55:11 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/83e98562c72d83cfbbee2b7e97987f01.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:55:11 : INFO] - Completed processing task with ID : 1219, and type 'smush' 
+[2025-04-22 07:55:11 : INFO] - Processing task with ID : 1220, and type 'smush' 
+[2025-04-22 07:55:11 : INFO] - Re_Smush_It_Task with attachment ID : 570, autocreated on : April 22, 2025 07:48:41 
+[2025-04-22 07:55:11 : INFO] - File: 90ff0941112b6008a770754fa7db8ee8.jpg, Compression quality: 92 
+[2025-04-22 07:55:12 : INFO] - Backing up the original image - 2025/04/90ff0941112b6008a770754fa7db8ee8-updraft-pre-smush-original.jpg 
+[2025-04-22 07:55:15 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/90ff0941112b6008a770754fa7db8ee8.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 07:55:15 : INFO] - Completed processing task with ID : 1220, and type 'smush' 
+[2025-04-22 07:55:15 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-22 07:55:15 : INFO] - Successfully processed the queue (smush). 53 tasks were processed out of 53. 
+[2025-04-22 07:55:15 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-22 07:55:15 : INFO] - Cleaning up tasks of type (smush). A total of 53 tasks will be deleted. 
+[2025-04-22 08:13:38 : INFO] - Re_Smush_It_Task with attachment ID : 573, autocreated on : April 22, 2025 08:13:38 
+[2025-04-22 08:13:39 : INFO] - Re_Smush_It_Task with attachment ID : 575, autocreated on : April 22, 2025 08:13:39 
+[2025-04-22 08:13:40 : INFO] - Re_Smush_It_Task with attachment ID : 577, autocreated on : April 22, 2025 08:13:40 
+[2025-04-22 08:13:41 : INFO] - Re_Smush_It_Task with attachment ID : 579, autocreated on : April 22, 2025 08:13:41 
+[2025-04-22 08:19:30 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2025-04-22 08:19:30 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-22 08:19:30 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-22 08:19:30 : INFO] - Processing task with ID : 1300, and type 'smush' 
+[2025-04-22 08:19:30 : INFO] - Re_Smush_It_Task with attachment ID : 573, autocreated on : April 22, 2025 08:13:38 
+[2025-04-22 08:19:30 : INFO] - File: 313027c80b9721907c200cdf3d34dfce.jpg, Compression quality: 92 
+[2025-04-22 08:19:30 : INFO] - Backing up the original image - 2025/04/313027c80b9721907c200cdf3d34dfce-updraft-pre-smush-original.jpg 
+[2025-04-22 08:19:33 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/313027c80b9721907c200cdf3d34dfce.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:19:33 : INFO] - Completed processing task with ID : 1300, and type 'smush' 
+[2025-04-22 08:19:33 : INFO] - Processing task with ID : 1301, and type 'smush' 
+[2025-04-22 08:19:33 : INFO] - Re_Smush_It_Task with attachment ID : 575, autocreated on : April 22, 2025 08:13:39 
+[2025-04-22 08:19:33 : INFO] - File: 1b6079a6795917b78cb07c7deda0013f.jpg, Compression quality: 92 
+[2025-04-22 08:19:33 : INFO] - Backing up the original image - 2025/04/1b6079a6795917b78cb07c7deda0013f-updraft-pre-smush-original.jpg 
+[2025-04-22 08:19:35 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/1b6079a6795917b78cb07c7deda0013f.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:19:35 : INFO] - Completed processing task with ID : 1301, and type 'smush' 
+[2025-04-22 08:19:35 : INFO] - Processing task with ID : 1302, and type 'smush' 
+[2025-04-22 08:19:35 : INFO] - Re_Smush_It_Task with attachment ID : 577, autocreated on : April 22, 2025 08:13:40 
+[2025-04-22 08:19:35 : INFO] - File: 14282178c4c6c677b69a28d6cf50fc49.jpg, Compression quality: 92 
+[2025-04-22 08:19:36 : INFO] - Backing up the original image - 2025/04/14282178c4c6c677b69a28d6cf50fc49-updraft-pre-smush-original.jpg 
+[2025-04-22 08:19:38 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/14282178c4c6c677b69a28d6cf50fc49.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:19:38 : INFO] - Completed processing task with ID : 1302, and type 'smush' 
+[2025-04-22 08:19:38 : INFO] - Processing task with ID : 1303, and type 'smush' 
+[2025-04-22 08:19:38 : INFO] - Re_Smush_It_Task with attachment ID : 579, autocreated on : April 22, 2025 08:13:41 
+[2025-04-22 08:19:38 : INFO] - File: e741266dabd9ef10d0d3019d04889e91.jpg, Compression quality: 92 
+[2025-04-22 08:19:39 : INFO] - Backing up the original image - 2025/04/e741266dabd9ef10d0d3019d04889e91-updraft-pre-smush-original.jpg 
+[2025-04-22 08:19:41 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/e741266dabd9ef10d0d3019d04889e91.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:19:41 : INFO] - Completed processing task with ID : 1303, and type 'smush' 
+[2025-04-22 08:19:41 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-22 08:19:41 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2025-04-22 08:19:41 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-22 08:19:41 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2025-04-22 08:22:26 : INFO] - Re_Smush_It_Task with attachment ID : 587, autocreated on : April 22, 2025 08:22:26 
+[2025-04-22 08:22:27 : INFO] - Re_Smush_It_Task with attachment ID : 589, autocreated on : April 22, 2025 08:22:27 
+[2025-04-22 08:22:28 : INFO] - Re_Smush_It_Task with attachment ID : 591, autocreated on : April 22, 2025 08:22:28 
+[2025-04-22 08:22:29 : INFO] - Re_Smush_It_Task with attachment ID : 593, autocreated on : April 22, 2025 08:22:29 
+[2025-04-22 08:22:30 : INFO] - Re_Smush_It_Task with attachment ID : 595, autocreated on : April 22, 2025 08:22:30 
+[2025-04-22 08:22:31 : INFO] - Re_Smush_It_Task with attachment ID : 597, autocreated on : April 22, 2025 08:22:31 
+[2025-04-22 08:22:32 : INFO] - Re_Smush_It_Task with attachment ID : 599, autocreated on : April 22, 2025 08:22:32 
+[2025-04-22 08:22:33 : INFO] - Re_Smush_It_Task with attachment ID : 601, autocreated on : April 22, 2025 08:22:33 
+[2025-04-22 08:22:34 : INFO] - Re_Smush_It_Task with attachment ID : 603, autocreated on : April 22, 2025 08:22:34 
+[2025-04-22 08:22:35 : INFO] - Re_Smush_It_Task with attachment ID : 605, autocreated on : April 22, 2025 08:22:35 
+[2025-04-22 08:22:36 : INFO] - Re_Smush_It_Task with attachment ID : 607, autocreated on : April 22, 2025 08:22:36 
+[2025-04-22 08:22:37 : INFO] - Re_Smush_It_Task with attachment ID : 609, autocreated on : April 22, 2025 08:22:37 
+[2025-04-22 08:22:38 : INFO] - Re_Smush_It_Task with attachment ID : 611, autocreated on : April 22, 2025 08:22:38 
+[2025-04-22 08:22:39 : INFO] - Re_Smush_It_Task with attachment ID : 613, autocreated on : April 22, 2025 08:22:39 
+[2025-04-22 08:22:40 : INFO] - Re_Smush_It_Task with attachment ID : 615, autocreated on : April 22, 2025 08:22:40 
+[2025-04-22 08:22:41 : INFO] - Re_Smush_It_Task with attachment ID : 617, autocreated on : April 22, 2025 08:22:41 
+[2025-04-22 08:22:42 : INFO] - Re_Smush_It_Task with attachment ID : 619, autocreated on : April 22, 2025 08:22:42 
+[2025-04-22 08:22:45 : INFO] - Re_Smush_It_Task with attachment ID : 621, autocreated on : April 22, 2025 08:22:45 
+[2025-04-22 08:22:46 : INFO] - Re_Smush_It_Task with attachment ID : 623, autocreated on : April 22, 2025 08:22:46 
+[2025-04-22 08:22:47 : INFO] - Re_Smush_It_Task with attachment ID : 625, autocreated on : April 22, 2025 08:22:47 
+[2025-04-22 08:22:48 : INFO] - Re_Smush_It_Task with attachment ID : 627, autocreated on : April 22, 2025 08:22:48 
+[2025-04-22 08:22:49 : INFO] - Re_Smush_It_Task with attachment ID : 629, autocreated on : April 22, 2025 08:22:49 
+[2025-04-22 08:22:50 : INFO] - Re_Smush_It_Task with attachment ID : 631, autocreated on : April 22, 2025 08:22:50 
+[2025-04-22 08:22:51 : INFO] - Re_Smush_It_Task with attachment ID : 633, autocreated on : April 22, 2025 08:22:51 
+[2025-04-22 08:22:52 : INFO] - Re_Smush_It_Task with attachment ID : 635, autocreated on : April 22, 2025 08:22:52 
+[2025-04-22 08:22:53 : INFO] - Re_Smush_It_Task with attachment ID : 637, autocreated on : April 22, 2025 08:22:53 
+[2025-04-22 08:22:55 : INFO] - Re_Smush_It_Task with attachment ID : 639, autocreated on : April 22, 2025 08:22:54 
+[2025-04-22 08:22:56 : INFO] - Re_Smush_It_Task with attachment ID : 641, autocreated on : April 22, 2025 08:22:56 
+[2025-04-22 08:22:57 : INFO] - Re_Smush_It_Task with attachment ID : 643, autocreated on : April 22, 2025 08:22:57 
+[2025-04-22 08:22:58 : INFO] - Re_Smush_It_Task with attachment ID : 645, autocreated on : April 22, 2025 08:22:58 
+[2025-04-22 08:22:59 : INFO] - Re_Smush_It_Task with attachment ID : 647, autocreated on : April 22, 2025 08:22:59 
+[2025-04-22 08:23:00 : INFO] - Re_Smush_It_Task with attachment ID : 649, autocreated on : April 22, 2025 08:23:00 
+[2025-04-22 08:23:01 : INFO] - Re_Smush_It_Task with attachment ID : 651, autocreated on : April 22, 2025 08:23:01 
+[2025-04-22 08:23:02 : INFO] - Re_Smush_It_Task with attachment ID : 653, autocreated on : April 22, 2025 08:23:02 
+[2025-04-22 08:23:03 : INFO] - Re_Smush_It_Task with attachment ID : 655, autocreated on : April 22, 2025 08:23:03 
+[2025-04-22 08:23:04 : INFO] - Re_Smush_It_Task with attachment ID : 657, autocreated on : April 22, 2025 08:23:04 
+[2025-04-22 08:23:09 : INFO] - Re_Smush_It_Task with attachment ID : 659, autocreated on : April 22, 2025 08:23:09 
+[2025-04-22 08:23:10 : INFO] - Re_Smush_It_Task with attachment ID : 661, autocreated on : April 22, 2025 08:23:10 
+[2025-04-22 08:23:11 : INFO] - Re_Smush_It_Task with attachment ID : 663, autocreated on : April 22, 2025 08:23:11 
+[2025-04-22 08:23:12 : INFO] - Re_Smush_It_Task with attachment ID : 665, autocreated on : April 22, 2025 08:23:12 
+[2025-04-22 08:23:13 : INFO] - Re_Smush_It_Task with attachment ID : 667, autocreated on : April 22, 2025 08:23:13 
+[2025-04-22 08:23:14 : INFO] - Re_Smush_It_Task with attachment ID : 669, autocreated on : April 22, 2025 08:23:14 
+[2025-04-22 08:23:15 : INFO] - Re_Smush_It_Task with attachment ID : 671, autocreated on : April 22, 2025 08:23:15 
+[2025-04-22 08:23:16 : INFO] - Re_Smush_It_Task with attachment ID : 673, autocreated on : April 22, 2025 08:23:16 
+[2025-04-22 08:23:17 : INFO] - Re_Smush_It_Task with attachment ID : 675, autocreated on : April 22, 2025 08:23:17 
+[2025-04-22 08:23:18 : INFO] - Re_Smush_It_Task with attachment ID : 677, autocreated on : April 22, 2025 08:23:18 
+[2025-04-22 08:23:20 : INFO] - Re_Smush_It_Task with attachment ID : 679, autocreated on : April 22, 2025 08:23:20 
+[2025-04-22 08:23:21 : INFO] - Re_Smush_It_Task with attachment ID : 681, autocreated on : April 22, 2025 08:23:21 
+[2025-04-22 08:23:22 : INFO] - Re_Smush_It_Task with attachment ID : 683, autocreated on : April 22, 2025 08:23:22 
+[2025-04-22 08:29:45 : INFO] - A total of 49 tasks of type smush found and will be processed in this iteration 
+[2025-04-22 08:29:45 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-04-22 08:29:45 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-04-22 08:29:45 : INFO] - Processing task with ID : 1318, and type 'smush' 
+[2025-04-22 08:29:45 : INFO] - Re_Smush_It_Task with attachment ID : 587, autocreated on : April 22, 2025 08:22:26 
+[2025-04-22 08:29:45 : INFO] - File: d8a659db522ea74dcbd776c032438509.jpg, Compression quality: 92 
+[2025-04-22 08:29:46 : INFO] - Backing up the original image - 2025/04/d8a659db522ea74dcbd776c032438509-updraft-pre-smush-original.jpg 
+[2025-04-22 08:29:48 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/d8a659db522ea74dcbd776c032438509.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:29:48 : INFO] - Completed processing task with ID : 1318, and type 'smush' 
+[2025-04-22 08:29:48 : INFO] - Processing task with ID : 1319, and type 'smush' 
+[2025-04-22 08:29:48 : INFO] - Re_Smush_It_Task with attachment ID : 589, autocreated on : April 22, 2025 08:22:27 
+[2025-04-22 08:29:48 : INFO] - File: bd79dff2314aee95b5d3ae1c90e033c6.jpg, Compression quality: 92 
+[2025-04-22 08:29:48 : INFO] - Backing up the original image - 2025/04/bd79dff2314aee95b5d3ae1c90e033c6-updraft-pre-smush-original.jpg 
+[2025-04-22 08:29:51 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/bd79dff2314aee95b5d3ae1c90e033c6.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:29:51 : INFO] - Completed processing task with ID : 1319, and type 'smush' 
+[2025-04-22 08:29:51 : INFO] - Processing task with ID : 1320, and type 'smush' 
+[2025-04-22 08:29:51 : INFO] - Re_Smush_It_Task with attachment ID : 591, autocreated on : April 22, 2025 08:22:28 
+[2025-04-22 08:29:51 : INFO] - File: a1764806ee872a3f9220031db0382035.jpg, Compression quality: 92 
+[2025-04-22 08:29:51 : INFO] - Backing up the original image - 2025/04/a1764806ee872a3f9220031db0382035-updraft-pre-smush-original.jpg 
+[2025-04-22 08:29:54 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/a1764806ee872a3f9220031db0382035.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:29:54 : INFO] - Completed processing task with ID : 1320, and type 'smush' 
+[2025-04-22 08:29:54 : INFO] - Processing task with ID : 1321, and type 'smush' 
+[2025-04-22 08:29:54 : INFO] - Re_Smush_It_Task with attachment ID : 593, autocreated on : April 22, 2025 08:22:29 
+[2025-04-22 08:29:54 : INFO] - File: 8076a414098d34a10972f4b60c435898.jpg, Compression quality: 92 
+[2025-04-22 08:29:54 : INFO] - Backing up the original image - 2025/04/8076a414098d34a10972f4b60c435898-updraft-pre-smush-original.jpg 
+[2025-04-22 08:29:56 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/8076a414098d34a10972f4b60c435898.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:29:56 : INFO] - Completed processing task with ID : 1321, and type 'smush' 
+[2025-04-22 08:29:56 : INFO] - Processing task with ID : 1322, and type 'smush' 
+[2025-04-22 08:29:56 : INFO] - Re_Smush_It_Task with attachment ID : 595, autocreated on : April 22, 2025 08:22:30 
+[2025-04-22 08:29:56 : INFO] - File: ac6f77a2bf44e29598d93e6929d7354f.jpg, Compression quality: 92 
+[2025-04-22 08:29:57 : INFO] - Backing up the original image - 2025/04/ac6f77a2bf44e29598d93e6929d7354f-updraft-pre-smush-original.jpg 
+[2025-04-22 08:29:59 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/ac6f77a2bf44e29598d93e6929d7354f.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:29:59 : INFO] - Completed processing task with ID : 1322, and type 'smush' 
+[2025-04-22 08:29:59 : INFO] - Processing task with ID : 1323, and type 'smush' 
+[2025-04-22 08:29:59 : INFO] - Re_Smush_It_Task with attachment ID : 597, autocreated on : April 22, 2025 08:22:31 
+[2025-04-22 08:29:59 : INFO] - File: e1196c21d9f6bac6ad12fc2ec2a8b750.jpg, Compression quality: 92 
+[2025-04-22 08:30:00 : INFO] - Backing up the original image - 2025/04/e1196c21d9f6bac6ad12fc2ec2a8b750-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:02 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/e1196c21d9f6bac6ad12fc2ec2a8b750.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:02 : INFO] - Completed processing task with ID : 1323, and type 'smush' 
+[2025-04-22 08:30:02 : INFO] - Processing task with ID : 1324, and type 'smush' 
+[2025-04-22 08:30:02 : INFO] - Re_Smush_It_Task with attachment ID : 599, autocreated on : April 22, 2025 08:22:32 
+[2025-04-22 08:30:02 : INFO] - File: 40a681cbdf4e25c277d665e800ceb458.jpg, Compression quality: 92 
+[2025-04-22 08:30:03 : INFO] - Backing up the original image - 2025/04/40a681cbdf4e25c277d665e800ceb458-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:05 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/40a681cbdf4e25c277d665e800ceb458.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:05 : INFO] - Completed processing task with ID : 1324, and type 'smush' 
+[2025-04-22 08:30:05 : INFO] - Processing task with ID : 1325, and type 'smush' 
+[2025-04-22 08:30:05 : INFO] - Re_Smush_It_Task with attachment ID : 601, autocreated on : April 22, 2025 08:22:33 
+[2025-04-22 08:30:05 : INFO] - File: 4e6e92138a11dd2e44a20bb5d3b70b30.jpg, Compression quality: 92 
+[2025-04-22 08:30:06 : INFO] - Backing up the original image - 2025/04/4e6e92138a11dd2e44a20bb5d3b70b30-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:08 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/4e6e92138a11dd2e44a20bb5d3b70b30.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:08 : INFO] - Completed processing task with ID : 1325, and type 'smush' 
+[2025-04-22 08:30:08 : INFO] - Processing task with ID : 1326, and type 'smush' 
+[2025-04-22 08:30:08 : INFO] - Re_Smush_It_Task with attachment ID : 603, autocreated on : April 22, 2025 08:22:34 
+[2025-04-22 08:30:08 : INFO] - File: 9c9f36acf49284e1fa8dce893f30a4b1.jpg, Compression quality: 92 
+[2025-04-22 08:30:08 : INFO] - Backing up the original image - 2025/04/9c9f36acf49284e1fa8dce893f30a4b1-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:11 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/9c9f36acf49284e1fa8dce893f30a4b1.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:11 : INFO] - Completed processing task with ID : 1326, and type 'smush' 
+[2025-04-22 08:30:11 : INFO] - Processing task with ID : 1327, and type 'smush' 
+[2025-04-22 08:30:11 : INFO] - Re_Smush_It_Task with attachment ID : 605, autocreated on : April 22, 2025 08:22:35 
+[2025-04-22 08:30:11 : INFO] - File: 3e5aaed436460ee36a659037992204c0.jpg, Compression quality: 92 
+[2025-04-22 08:30:11 : INFO] - Backing up the original image - 2025/04/3e5aaed436460ee36a659037992204c0-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:13 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/3e5aaed436460ee36a659037992204c0.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:13 : INFO] - Completed processing task with ID : 1327, and type 'smush' 
+[2025-04-22 08:30:13 : INFO] - Processing task with ID : 1328, and type 'smush' 
+[2025-04-22 08:30:13 : INFO] - Re_Smush_It_Task with attachment ID : 607, autocreated on : April 22, 2025 08:22:36 
+[2025-04-22 08:30:13 : INFO] - File: 50c81fbde2ef1e465a1d40350d47108d.jpg, Compression quality: 92 
+[2025-04-22 08:30:14 : INFO] - Backing up the original image - 2025/04/50c81fbde2ef1e465a1d40350d47108d-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:16 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/50c81fbde2ef1e465a1d40350d47108d.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:16 : INFO] - Completed processing task with ID : 1328, and type 'smush' 
+[2025-04-22 08:30:16 : INFO] - Processing task with ID : 1329, and type 'smush' 
+[2025-04-22 08:30:16 : INFO] - Re_Smush_It_Task with attachment ID : 609, autocreated on : April 22, 2025 08:22:37 
+[2025-04-22 08:30:16 : INFO] - File: df737c68af5febb0d5290be9e3d3afd4.jpg, Compression quality: 92 
+[2025-04-22 08:30:17 : INFO] - Backing up the original image - 2025/04/df737c68af5febb0d5290be9e3d3afd4-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:19 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/df737c68af5febb0d5290be9e3d3afd4.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:19 : INFO] - Completed processing task with ID : 1329, and type 'smush' 
+[2025-04-22 08:30:19 : INFO] - Processing task with ID : 1330, and type 'smush' 
+[2025-04-22 08:30:19 : INFO] - Re_Smush_It_Task with attachment ID : 611, autocreated on : April 22, 2025 08:22:38 
+[2025-04-22 08:30:19 : INFO] - File: 88dbb49685eff482d07e0882aeae71d9.jpg, Compression quality: 92 
+[2025-04-22 08:30:20 : INFO] - Backing up the original image - 2025/04/88dbb49685eff482d07e0882aeae71d9-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:22 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/88dbb49685eff482d07e0882aeae71d9.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:22 : INFO] - Completed processing task with ID : 1330, and type 'smush' 
+[2025-04-22 08:30:22 : INFO] - Processing task with ID : 1331, and type 'smush' 
+[2025-04-22 08:30:22 : INFO] - Re_Smush_It_Task with attachment ID : 613, autocreated on : April 22, 2025 08:22:39 
+[2025-04-22 08:30:22 : INFO] - File: c6f3f0c359790ec19d383b7d0b0fab63.jpg, Compression quality: 92 
+[2025-04-22 08:30:22 : INFO] - Backing up the original image - 2025/04/c6f3f0c359790ec19d383b7d0b0fab63-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:24 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/c6f3f0c359790ec19d383b7d0b0fab63.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:24 : INFO] - Completed processing task with ID : 1331, and type 'smush' 
+[2025-04-22 08:30:24 : INFO] - Processing task with ID : 1332, and type 'smush' 
+[2025-04-22 08:30:24 : INFO] - Re_Smush_It_Task with attachment ID : 615, autocreated on : April 22, 2025 08:22:40 
+[2025-04-22 08:30:24 : INFO] - File: 53d9ac3af53bb4437e289afe53fd084b.jpg, Compression quality: 92 
+[2025-04-22 08:30:25 : INFO] - Backing up the original image - 2025/04/53d9ac3af53bb4437e289afe53fd084b-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:27 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/53d9ac3af53bb4437e289afe53fd084b.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:27 : INFO] - Completed processing task with ID : 1332, and type 'smush' 
+[2025-04-22 08:30:27 : INFO] - Processing task with ID : 1333, and type 'smush' 
+[2025-04-22 08:30:27 : INFO] - Re_Smush_It_Task with attachment ID : 617, autocreated on : April 22, 2025 08:22:41 
+[2025-04-22 08:30:27 : INFO] - File: 0312da9a522e8c5d938d95a1d8dccfaf.jpg, Compression quality: 92 
+[2025-04-22 08:30:28 : INFO] - Backing up the original image - 2025/04/0312da9a522e8c5d938d95a1d8dccfaf-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:30 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/0312da9a522e8c5d938d95a1d8dccfaf.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:30 : INFO] - Completed processing task with ID : 1333, and type 'smush' 
+[2025-04-22 08:30:30 : INFO] - Processing task with ID : 1334, and type 'smush' 
+[2025-04-22 08:30:30 : INFO] - Re_Smush_It_Task with attachment ID : 619, autocreated on : April 22, 2025 08:22:42 
+[2025-04-22 08:30:30 : INFO] - File: 95c69775774881627228474c718447ce.jpg, Compression quality: 92 
+[2025-04-22 08:30:31 : INFO] - Backing up the original image - 2025/04/95c69775774881627228474c718447ce-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:33 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/95c69775774881627228474c718447ce.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:33 : INFO] - Completed processing task with ID : 1334, and type 'smush' 
+[2025-04-22 08:30:33 : INFO] - Processing task with ID : 1359, and type 'smush' 
+[2025-04-22 08:30:33 : INFO] - Re_Smush_It_Task with attachment ID : 621, autocreated on : April 22, 2025 08:22:45 
+[2025-04-22 08:30:33 : INFO] - File: eee03ea3207bb5a53b370d12b5683bc8.jpg, Compression quality: 92 
+[2025-04-22 08:30:33 : INFO] - Backing up the original image - 2025/04/eee03ea3207bb5a53b370d12b5683bc8-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:35 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/eee03ea3207bb5a53b370d12b5683bc8.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:35 : INFO] - Completed processing task with ID : 1359, and type 'smush' 
+[2025-04-22 08:30:35 : INFO] - Processing task with ID : 1360, and type 'smush' 
+[2025-04-22 08:30:35 : INFO] - Re_Smush_It_Task with attachment ID : 623, autocreated on : April 22, 2025 08:22:46 
+[2025-04-22 08:30:35 : INFO] - File: 2ece076311307263b2bf9421e91b1007.jpg, Compression quality: 92 
+[2025-04-22 08:30:36 : INFO] - Backing up the original image - 2025/04/2ece076311307263b2bf9421e91b1007-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:38 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/2ece076311307263b2bf9421e91b1007.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:38 : INFO] - Completed processing task with ID : 1360, and type 'smush' 
+[2025-04-22 08:30:38 : INFO] - Processing task with ID : 1361, and type 'smush' 
+[2025-04-22 08:30:38 : INFO] - Re_Smush_It_Task with attachment ID : 625, autocreated on : April 22, 2025 08:22:47 
+[2025-04-22 08:30:38 : INFO] - File: d2cc650e360069786f94ab4ed7cea92b.jpg, Compression quality: 92 
+[2025-04-22 08:30:39 : INFO] - Backing up the original image - 2025/04/d2cc650e360069786f94ab4ed7cea92b-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:41 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/d2cc650e360069786f94ab4ed7cea92b.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:41 : INFO] - Completed processing task with ID : 1361, and type 'smush' 
+[2025-04-22 08:30:41 : INFO] - Processing task with ID : 1362, and type 'smush' 
+[2025-04-22 08:30:41 : INFO] - Re_Smush_It_Task with attachment ID : 627, autocreated on : April 22, 2025 08:22:48 
+[2025-04-22 08:30:41 : INFO] - File: ae1608cc86c59fa44ecd257dc604b947.jpg, Compression quality: 92 
+[2025-04-22 08:30:42 : INFO] - Backing up the original image - 2025/04/ae1608cc86c59fa44ecd257dc604b947-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:44 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/ae1608cc86c59fa44ecd257dc604b947.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:44 : INFO] - Completed processing task with ID : 1362, and type 'smush' 
+[2025-04-22 08:30:44 : INFO] - Processing task with ID : 1363, and type 'smush' 
+[2025-04-22 08:30:44 : INFO] - Re_Smush_It_Task with attachment ID : 629, autocreated on : April 22, 2025 08:22:49 
+[2025-04-22 08:30:44 : INFO] - File: 6f1b50d261488e8826f630aa7fb6a9e7.jpg, Compression quality: 92 
+[2025-04-22 08:30:44 : INFO] - Backing up the original image - 2025/04/6f1b50d261488e8826f630aa7fb6a9e7-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:46 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/6f1b50d261488e8826f630aa7fb6a9e7.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:46 : INFO] - Completed processing task with ID : 1363, and type 'smush' 
+[2025-04-22 08:30:46 : INFO] - Processing task with ID : 1364, and type 'smush' 
+[2025-04-22 08:30:46 : INFO] - Re_Smush_It_Task with attachment ID : 631, autocreated on : April 22, 2025 08:22:50 
+[2025-04-22 08:30:46 : INFO] - File: 5fb19172845cd1188bcc11d810a93665.jpg, Compression quality: 92 
+[2025-04-22 08:30:47 : INFO] - Backing up the original image - 2025/04/5fb19172845cd1188bcc11d810a93665-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:49 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/5fb19172845cd1188bcc11d810a93665.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:49 : INFO] - Completed processing task with ID : 1364, and type 'smush' 
+[2025-04-22 08:30:49 : INFO] - Processing task with ID : 1365, and type 'smush' 
+[2025-04-22 08:30:49 : INFO] - Re_Smush_It_Task with attachment ID : 633, autocreated on : April 22, 2025 08:22:51 
+[2025-04-22 08:30:49 : INFO] - File: b58b10386809b33279e09fed5bddb0e0.jpg, Compression quality: 92 
+[2025-04-22 08:30:50 : INFO] - Backing up the original image - 2025/04/b58b10386809b33279e09fed5bddb0e0-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:52 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/b58b10386809b33279e09fed5bddb0e0.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:52 : INFO] - Completed processing task with ID : 1365, and type 'smush' 
+[2025-04-22 08:30:52 : INFO] - Processing task with ID : 1366, and type 'smush' 
+[2025-04-22 08:30:52 : INFO] - Re_Smush_It_Task with attachment ID : 635, autocreated on : April 22, 2025 08:22:52 
+[2025-04-22 08:30:52 : INFO] - File: e43645c1fc60517a87b624023a9c890b.jpg, Compression quality: 92 
+[2025-04-22 08:30:52 : INFO] - Backing up the original image - 2025/04/e43645c1fc60517a87b624023a9c890b-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:54 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/e43645c1fc60517a87b624023a9c890b.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:54 : INFO] - Completed processing task with ID : 1366, and type 'smush' 
+[2025-04-22 08:30:54 : INFO] - Processing task with ID : 1367, and type 'smush' 
+[2025-04-22 08:30:54 : INFO] - Re_Smush_It_Task with attachment ID : 637, autocreated on : April 22, 2025 08:22:53 
+[2025-04-22 08:30:54 : INFO] - File: 0f41fc91e25fd503a2759f46d0eb68c4.jpg, Compression quality: 92 
+[2025-04-22 08:30:55 : INFO] - Backing up the original image - 2025/04/0f41fc91e25fd503a2759f46d0eb68c4-updraft-pre-smush-original.jpg 
+[2025-04-22 08:30:57 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/0f41fc91e25fd503a2759f46d0eb68c4.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:30:57 : INFO] - Completed processing task with ID : 1367, and type 'smush' 
+[2025-04-22 08:30:57 : INFO] - Processing task with ID : 1368, and type 'smush' 
+[2025-04-22 08:30:57 : INFO] - Re_Smush_It_Task with attachment ID : 639, autocreated on : April 22, 2025 08:22:54 
+[2025-04-22 08:30:57 : INFO] - File: 9c2a52c27ebb329621ef8a0c0bb4d272.jpg, Compression quality: 92 
+[2025-04-22 08:30:58 : INFO] - Backing up the original image - 2025/04/9c2a52c27ebb329621ef8a0c0bb4d272-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:00 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/9c2a52c27ebb329621ef8a0c0bb4d272.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:00 : INFO] - Completed processing task with ID : 1368, and type 'smush' 
+[2025-04-22 08:31:00 : INFO] - Processing task with ID : 1369, and type 'smush' 
+[2025-04-22 08:31:00 : INFO] - Re_Smush_It_Task with attachment ID : 641, autocreated on : April 22, 2025 08:22:56 
+[2025-04-22 08:31:00 : INFO] - File: db4efaf0e30f03a48a1c3d32f0748b69.jpg, Compression quality: 92 
+[2025-04-22 08:31:00 : INFO] - Backing up the original image - 2025/04/db4efaf0e30f03a48a1c3d32f0748b69-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:02 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/db4efaf0e30f03a48a1c3d32f0748b69.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:02 : INFO] - Completed processing task with ID : 1369, and type 'smush' 
+[2025-04-22 08:31:02 : INFO] - Processing task with ID : 1370, and type 'smush' 
+[2025-04-22 08:31:02 : INFO] - Re_Smush_It_Task with attachment ID : 643, autocreated on : April 22, 2025 08:22:57 
+[2025-04-22 08:31:02 : INFO] - File: d8e783fa16b88cf5ee6bcd382fe0bc3c.jpg, Compression quality: 92 
+[2025-04-22 08:31:03 : INFO] - Backing up the original image - 2025/04/d8e783fa16b88cf5ee6bcd382fe0bc3c-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:05 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/d8e783fa16b88cf5ee6bcd382fe0bc3c.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:05 : INFO] - Completed processing task with ID : 1370, and type 'smush' 
+[2025-04-22 08:31:05 : INFO] - Processing task with ID : 1371, and type 'smush' 
+[2025-04-22 08:31:05 : INFO] - Re_Smush_It_Task with attachment ID : 645, autocreated on : April 22, 2025 08:22:58 
+[2025-04-22 08:31:05 : INFO] - File: fc2a2d4e9ca4f0af4906835231ef001f.jpg, Compression quality: 92 
+[2025-04-22 08:31:06 : INFO] - Backing up the original image - 2025/04/fc2a2d4e9ca4f0af4906835231ef001f-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:08 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/fc2a2d4e9ca4f0af4906835231ef001f.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:08 : INFO] - Completed processing task with ID : 1371, and type 'smush' 
+[2025-04-22 08:31:08 : INFO] - Processing task with ID : 1372, and type 'smush' 
+[2025-04-22 08:31:08 : INFO] - Re_Smush_It_Task with attachment ID : 647, autocreated on : April 22, 2025 08:22:59 
+[2025-04-22 08:31:08 : INFO] - File: df3819189a3f271fa83c1cc32aa159af.jpg, Compression quality: 92 
+[2025-04-22 08:31:08 : INFO] - Backing up the original image - 2025/04/df3819189a3f271fa83c1cc32aa159af-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:10 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/df3819189a3f271fa83c1cc32aa159af.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:10 : INFO] - Completed processing task with ID : 1372, and type 'smush' 
+[2025-04-22 08:31:10 : INFO] - Processing task with ID : 1373, and type 'smush' 
+[2025-04-22 08:31:10 : INFO] - Re_Smush_It_Task with attachment ID : 649, autocreated on : April 22, 2025 08:23:00 
+[2025-04-22 08:31:10 : INFO] - File: b8802e165b1cba7f0e6e2074efdf3787.jpg, Compression quality: 92 
+[2025-04-22 08:31:11 : INFO] - Backing up the original image - 2025/04/b8802e165b1cba7f0e6e2074efdf3787-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:13 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/b8802e165b1cba7f0e6e2074efdf3787.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:13 : INFO] - Completed processing task with ID : 1373, and type 'smush' 
+[2025-04-22 08:31:13 : INFO] - Processing task with ID : 1374, and type 'smush' 
+[2025-04-22 08:31:13 : INFO] - Re_Smush_It_Task with attachment ID : 651, autocreated on : April 22, 2025 08:23:01 
+[2025-04-22 08:31:13 : INFO] - File: b3e2bfbebd7cea02d70ab7a77747f11a.jpg, Compression quality: 92 
+[2025-04-22 08:31:14 : INFO] - Backing up the original image - 2025/04/b3e2bfbebd7cea02d70ab7a77747f11a-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:16 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/b3e2bfbebd7cea02d70ab7a77747f11a.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:16 : INFO] - Completed processing task with ID : 1374, and type 'smush' 
+[2025-04-22 08:31:16 : INFO] - Processing task with ID : 1375, and type 'smush' 
+[2025-04-22 08:31:16 : INFO] - Re_Smush_It_Task with attachment ID : 653, autocreated on : April 22, 2025 08:23:02 
+[2025-04-22 08:31:16 : INFO] - File: af8272195b5b43c89fb150b964f31d63.jpg, Compression quality: 92 
+[2025-04-22 08:31:17 : INFO] - A total of 16 tasks of type smush found and will be processed in this iteration 
+[2025-04-22 08:31:17 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-04-22 08:31:17 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-04-22 08:31:17 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-04-22 08:31:17 : INFO] - Backing up the original image - 2025/04/af8272195b5b43c89fb150b964f31d63-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:17 : INFO] - Cleaning up tasks of type (smush). A total of 33 tasks will be deleted. 
+[2025-04-22 08:31:19 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/af8272195b5b43c89fb150b964f31d63.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:19 : INFO] - Completed processing task with ID : 1375, and type 'smush' 
+[2025-04-22 08:31:19 : INFO] - Processing task with ID : 1376, and type 'smush' 
+[2025-04-22 08:31:19 : INFO] - Re_Smush_It_Task with attachment ID : 655, autocreated on : April 22, 2025 08:23:03 
+[2025-04-22 08:31:19 : INFO] - File: 69cfa3a59f0d6a45ffc62281b7aeb1d4.jpg, Compression quality: 92 
+[2025-04-22 08:31:19 : INFO] - Backing up the original image - 2025/04/69cfa3a59f0d6a45ffc62281b7aeb1d4-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:21 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/69cfa3a59f0d6a45ffc62281b7aeb1d4.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:21 : INFO] - Completed processing task with ID : 1376, and type 'smush' 
+[2025-04-22 08:31:21 : INFO] - Processing task with ID : 1377, and type 'smush' 
+[2025-04-22 08:31:21 : INFO] - Re_Smush_It_Task with attachment ID : 657, autocreated on : April 22, 2025 08:23:04 
+[2025-04-22 08:31:21 : INFO] - File: a2d7d1a3bc3ef57804e95f0d69963d68.jpg, Compression quality: 92 
+[2025-04-22 08:31:22 : INFO] - Backing up the original image - 2025/04/a2d7d1a3bc3ef57804e95f0d69963d68-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:24 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/a2d7d1a3bc3ef57804e95f0d69963d68.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:24 : INFO] - Completed processing task with ID : 1377, and type 'smush' 
+[2025-04-22 08:31:24 : INFO] - Processing task with ID : 1400, and type 'smush' 
+[2025-04-22 08:31:24 : INFO] - Re_Smush_It_Task with attachment ID : 659, autocreated on : April 22, 2025 08:23:09 
+[2025-04-22 08:31:24 : INFO] - File: 1dfad088acd8a47199772491930a9c85.jpg, Compression quality: 92 
+[2025-04-22 08:31:25 : INFO] - Backing up the original image - 2025/04/1dfad088acd8a47199772491930a9c85-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:27 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/1dfad088acd8a47199772491930a9c85.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:27 : INFO] - Completed processing task with ID : 1400, and type 'smush' 
+[2025-04-22 08:31:27 : INFO] - Processing task with ID : 1401, and type 'smush' 
+[2025-04-22 08:31:27 : INFO] - Re_Smush_It_Task with attachment ID : 661, autocreated on : April 22, 2025 08:23:10 
+[2025-04-22 08:31:27 : INFO] - File: b476534176d9f4cae11affe15c8e785f.jpg, Compression quality: 92 
+[2025-04-22 08:31:27 : INFO] - Backing up the original image - 2025/04/b476534176d9f4cae11affe15c8e785f-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:29 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/b476534176d9f4cae11affe15c8e785f.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:29 : INFO] - Completed processing task with ID : 1401, and type 'smush' 
+[2025-04-22 08:31:29 : INFO] - Processing task with ID : 1402, and type 'smush' 
+[2025-04-22 08:31:29 : INFO] - Re_Smush_It_Task with attachment ID : 663, autocreated on : April 22, 2025 08:23:11 
+[2025-04-22 08:31:29 : INFO] - File: 25e7c79002de123421c7d4304ef69181.jpg, Compression quality: 92 
+[2025-04-22 08:31:30 : INFO] - Backing up the original image - 2025/04/25e7c79002de123421c7d4304ef69181-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:32 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/25e7c79002de123421c7d4304ef69181.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:32 : INFO] - Completed processing task with ID : 1402, and type 'smush' 
+[2025-04-22 08:31:32 : INFO] - Processing task with ID : 1403, and type 'smush' 
+[2025-04-22 08:31:32 : INFO] - Re_Smush_It_Task with attachment ID : 665, autocreated on : April 22, 2025 08:23:12 
+[2025-04-22 08:31:32 : INFO] - File: 707b13757874b3afe0d2b8e7cd375e18.jpg, Compression quality: 92 
+[2025-04-22 08:31:33 : INFO] - Backing up the original image - 2025/04/707b13757874b3afe0d2b8e7cd375e18-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:35 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/707b13757874b3afe0d2b8e7cd375e18.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:35 : INFO] - Completed processing task with ID : 1403, and type 'smush' 
+[2025-04-22 08:31:35 : INFO] - Processing task with ID : 1404, and type 'smush' 
+[2025-04-22 08:31:35 : INFO] - Re_Smush_It_Task with attachment ID : 667, autocreated on : April 22, 2025 08:23:13 
+[2025-04-22 08:31:35 : INFO] - File: 656ea4a82ac46ba6b948664cbcd8cce6.jpg, Compression quality: 92 
+[2025-04-22 08:31:35 : INFO] - Backing up the original image - 2025/04/656ea4a82ac46ba6b948664cbcd8cce6-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:38 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/656ea4a82ac46ba6b948664cbcd8cce6.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:38 : INFO] - Completed processing task with ID : 1404, and type 'smush' 
+[2025-04-22 08:31:38 : INFO] - Processing task with ID : 1405, and type 'smush' 
+[2025-04-22 08:31:38 : INFO] - Re_Smush_It_Task with attachment ID : 669, autocreated on : April 22, 2025 08:23:14 
+[2025-04-22 08:31:38 : INFO] - File: c3a79756791c24ad85043940632543c5.jpg, Compression quality: 92 
+[2025-04-22 08:31:38 : INFO] - Backing up the original image - 2025/04/c3a79756791c24ad85043940632543c5-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:40 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/c3a79756791c24ad85043940632543c5.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:40 : INFO] - Completed processing task with ID : 1405, and type 'smush' 
+[2025-04-22 08:31:40 : INFO] - Processing task with ID : 1406, and type 'smush' 
+[2025-04-22 08:31:40 : INFO] - Re_Smush_It_Task with attachment ID : 671, autocreated on : April 22, 2025 08:23:15 
+[2025-04-22 08:31:40 : INFO] - File: 2a10c962e05f6508b13cc70672db7a20.jpg, Compression quality: 92 
+[2025-04-22 08:31:41 : INFO] - Backing up the original image - 2025/04/2a10c962e05f6508b13cc70672db7a20-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:43 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/2a10c962e05f6508b13cc70672db7a20.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:43 : INFO] - Completed processing task with ID : 1406, and type 'smush' 
+[2025-04-22 08:31:43 : INFO] - Processing task with ID : 1407, and type 'smush' 
+[2025-04-22 08:31:43 : INFO] - Re_Smush_It_Task with attachment ID : 673, autocreated on : April 22, 2025 08:23:16 
+[2025-04-22 08:31:43 : INFO] - File: e393ac8021d8fe572939f39494608bba.jpg, Compression quality: 92 
+[2025-04-22 08:31:44 : INFO] - Backing up the original image - 2025/04/e393ac8021d8fe572939f39494608bba-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:46 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/e393ac8021d8fe572939f39494608bba.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:46 : INFO] - Completed processing task with ID : 1407, and type 'smush' 
+[2025-04-22 08:31:46 : INFO] - Processing task with ID : 1408, and type 'smush' 
+[2025-04-22 08:31:46 : INFO] - Re_Smush_It_Task with attachment ID : 675, autocreated on : April 22, 2025 08:23:17 
+[2025-04-22 08:31:46 : INFO] - File: d6707a25d15d80e7a4f81d3a60dc0591.jpg, Compression quality: 92 
+[2025-04-22 08:31:47 : INFO] - Backing up the original image - 2025/04/d6707a25d15d80e7a4f81d3a60dc0591-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:49 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/d6707a25d15d80e7a4f81d3a60dc0591.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:49 : INFO] - Completed processing task with ID : 1408, and type 'smush' 
+[2025-04-22 08:31:49 : INFO] - Processing task with ID : 1409, and type 'smush' 
+[2025-04-22 08:31:49 : INFO] - Re_Smush_It_Task with attachment ID : 677, autocreated on : April 22, 2025 08:23:18 
+[2025-04-22 08:31:49 : INFO] - File: 90ed72fd12e7e019c3b8e6534711c377.jpg, Compression quality: 92 
+[2025-04-22 08:31:50 : INFO] - Backing up the original image - 2025/04/90ed72fd12e7e019c3b8e6534711c377-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:52 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/90ed72fd12e7e019c3b8e6534711c377.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:52 : INFO] - Completed processing task with ID : 1409, and type 'smush' 
+[2025-04-22 08:31:52 : INFO] - Processing task with ID : 1410, and type 'smush' 
+[2025-04-22 08:31:52 : INFO] - Re_Smush_It_Task with attachment ID : 679, autocreated on : April 22, 2025 08:23:20 
+[2025-04-22 08:31:52 : INFO] - File: ce9100055afe7cbf627913d2e358c8e6.jpg, Compression quality: 92 
+[2025-04-22 08:31:52 : INFO] - Backing up the original image - 2025/04/ce9100055afe7cbf627913d2e358c8e6-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:54 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/ce9100055afe7cbf627913d2e358c8e6.jpg.Файл был сжат с 7.63 KB до 7.63 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:54 : INFO] - Completed processing task with ID : 1410, and type 'smush' 
+[2025-04-22 08:31:54 : INFO] - Processing task with ID : 1411, and type 'smush' 
+[2025-04-22 08:31:54 : INFO] - Re_Smush_It_Task with attachment ID : 681, autocreated on : April 22, 2025 08:23:21 
+[2025-04-22 08:31:54 : INFO] - File: 83e98562c72d83cfbbee2b7e97987f01.jpg, Compression quality: 92 
+[2025-04-22 08:31:55 : INFO] - Backing up the original image - 2025/04/83e98562c72d83cfbbee2b7e97987f01-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:57 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/83e98562c72d83cfbbee2b7e97987f01.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:57 : INFO] - Completed processing task with ID : 1411, and type 'smush' 
+[2025-04-22 08:31:57 : INFO] - Processing task with ID : 1412, and type 'smush' 
+[2025-04-22 08:31:57 : INFO] - Re_Smush_It_Task with attachment ID : 683, autocreated on : April 22, 2025 08:23:22 
+[2025-04-22 08:31:57 : INFO] - File: 90ff0941112b6008a770754fa7db8ee8.jpg, Compression quality: 92 
+[2025-04-22 08:31:57 : INFO] - Backing up the original image - 2025/04/90ff0941112b6008a770754fa7db8ee8-updraft-pre-smush-original.jpg 
+[2025-04-22 08:31:59 : INFO] - Successfully optimized the image - C:\OSPanel\domains\WideAndScale\metalware/wp-content/uploads/2025/04/90ff0941112b6008a770754fa7db8ee8.jpg.Файл был сжат с 26.40 KB до 26.40 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2025-04-22 08:31:59 : INFO] - Completed processing task with ID : 1412, and type 'smush' 
+[2025-04-22 08:31:59 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-04-22 08:31:59 : INFO] - Successfully processed the queue (smush). 49 tasks were processed out of 49. 
+[2025-04-22 08:31:59 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-04-22 08:31:59 : INFO] - Cleaning up tasks of type (smush). A total of 16 tasks will be deleted. 
